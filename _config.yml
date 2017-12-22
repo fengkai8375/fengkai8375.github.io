@@ -1,0 +1,27 @@
+# Site settings
+name: AMBITI的博客
+email: fengkai8375@gmail.com
+author: FK
+url: https://fengkai8375.github.io/
+resume_site: https://fengkai8375.github.io/me/
+github: https://github.com/fengkai8375/
+baseurl: ""  #根目录
+description: 世界以痛吻我，要我回报以歌。
+motto: 世界以痛吻我，要我回报以歌。
+#motto: 如果生活欺骗了你，不要悲伤，不要哭泣。
+banner: 世界以痛吻我，要我回报以歌。
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+excerpt_separator:  '<!-- more -->' #文章摘要
+paginate: 8
+paginate_path: "page:num"
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+github_username: fengkai8375
+highlighter: rouge
+markdown: kramdown
+FB:
+  comments :
+    provider : disqus
+    disqus :
+        short_name : ambiti
