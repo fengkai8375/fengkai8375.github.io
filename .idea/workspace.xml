@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/WebServer/2017-02-08-Ngix-config-status.md" afterPath="$PROJECT_DIR$/_posts/WebServer/2017-02-08-Ngix-config-status.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/WebServer/2017-02-11-Ngix-config-php-fpmstatus.md" afterPath="$PROJECT_DIR$/_posts/WebServer/2017-02-11-Ngix-config-php-fpm-status.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,32 +15,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2017-07-26-JS-Prevent-Html-Auto-Complete.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/JavaScript/2017-07-26-JS-Prevent-Html-Auto-Complete.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="216">
-                <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-01-10-Plupload-Not-Word-In-IE9.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/JavaScript/2017-01-10-Plupload-Not-Word-In-IE9.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="414">
-                <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2017-01-08-Wechat-Backward-Enfore-Reload.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/JavaScript/2017-01-08-Wechat-Backward-Enfore-Reload.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -106,8 +80,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-02-11-Ngix-config-php-fpmstatus.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-11-Ngix-config-php-fpmstatus.md">
+      <file leaf-file-name="2017-02-11-Ngix-config-php-fpm-status.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-11-Ngix-config-php-fpm-status.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="774">
@@ -119,12 +93,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-02-01-vsftp-config.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-02-01-vsftp-config.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-02-01-vsftp-config.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="594">
-                <caret line="33" column="64" lean-forward="false" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+              <first_editor relative-caret-position="180">
+                <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-02-02-Linux-Firewalld-Opeartion.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-02-02-Linux-Firewalld-Opeartion.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="396">
+                <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-02-03-Linux-Enable-Iptables-Disable-Firewalld.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-02-03-Linux-Enable-Iptables-Disable-Firewalld.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="165">
+                <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -186,8 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_site/CNAME" />
-        <option value="$PROJECT_DIR$/_posts/postgraduate/Shell/2017-12-11-Linux-Shell-Basic.md" />
         <option value="$PROJECT_DIR$/_site/categories/index.html" />
         <option value="$PROJECT_DIR$/_posts/JavaScript/2017-03-07-AJAX.md" />
         <option value="$PROJECT_DIR$/_posts/JavaScript/2017-12-11-Linux-Shell-Basic.md" />
@@ -237,6 +235,8 @@
         <option value="$PROJECT_DIR$/_posts/WebServer/2017-02-11-Ngix-config-php-fpmstatus.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2017-02-01-vsftpd-config.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2017-02-01-vsftp-config.md" />
+        <option value="$PROJECT_DIR$/_posts/Linux/2017-02-02-Linux-Firewalld-Opeartion.md" />
+        <option value="$PROJECT_DIR$/_posts/Linux/2017-02-03-Linux-Enable-Iptables-Disable-Firewalld.md" />
       </list>
     </option>
   </component>
@@ -612,12 +612,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513927840237</updated>
-      <workItem from="1513927841344" duration="13497000" />
+      <workItem from="1513927841344" duration="13790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13497000" />
+    <option name="totallyTimeSpent" value="13790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -653,25 +653,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/JavaScript/2017-10-21-Understanding-ES6.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/docs_header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/copy.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1144,7 +1125,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-11-Ngix-config-php-fpmstatus.md">
+    <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-11-Ngix-config-php-fpm-status.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="774">
@@ -1158,8 +1139,30 @@
     <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-02-01-vsftp-config.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="594">
-            <caret line="33" column="64" lean-forward="false" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+          <first_editor relative-caret-position="180">
+            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-02-02-Linux-Firewalld-Opeartion.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="396">
+            <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-02-03-Linux-Enable-Iptables-Disable-Firewalld.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
