@@ -12,9 +12,6 @@ tag: session
 
 2. 多台服务器时，session可以存储在Memcache/Redis/Mysql中
 
-<!-- more -->
-
-
 3. 并发高时，应降低session回收机率，即配置 `session.gc_divisor`
 
 4. 在PHP环境下，默认的 `session.lazy_write = On`无需禁用。不然也会出现1中的问题。
