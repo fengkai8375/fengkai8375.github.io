@@ -3,7 +3,9 @@ layout: post
 title: "使用logrotate切割Nginx日志"
 date: 2017-02-09 09:00:00 +0800 
 categories: Linux
-tag: Nginx
+tag: 
+ - Nginx
+ - logrotate
 ---
 * content
 {:toc}

@@ -3,7 +3,9 @@ layout: post
 title: "Nginx配置php-fpm status"
 date: 2017-02-11 09:00:00 +0800 
 categories: Linux
-tag: Nginx
+tag:
+ - Nginx
+ - PHP
 ---
 * content
 {:toc}

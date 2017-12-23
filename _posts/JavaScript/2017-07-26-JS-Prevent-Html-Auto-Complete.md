@@ -3,7 +3,8 @@ layout: post
 title: "防止自动填充autocomplete"
 date: 2017-07-26 09:00:00 +0800 
 categories: JavaScript
-tag: Html5
+tag:
+ - Html5
 ---
 * content
 {:toc}

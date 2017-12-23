@@ -3,7 +3,9 @@ layout: post
 title: "PHP多服务器子域名session共享"
 date: 2017-10-18 09:00:00 +0800 
 categories: PHP
-tag: session
+tag:
+ - session
+ - memcache
 ---
 * content
 {:toc}

@@ -3,7 +3,9 @@ layout: post
 title: "解决plupload在IE9下点击没反应的问题"
 date: 2017-01-10 09:00:00 +0800 
 categories: JavaScript
-tag: plupload
+tag:
+ - plupload
+ - Html5
 ---
 * content
 {:toc}
