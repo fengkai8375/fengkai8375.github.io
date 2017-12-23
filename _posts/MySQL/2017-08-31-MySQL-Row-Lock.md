@@ -10,7 +10,7 @@ tag:
 * content
 {:toc}
 
-`select`默认不加锁，但可以通过添加`FOR UPDATE`显式地加锁。
+MySQL中`select`默认不加锁，但可以通过添加`FOR UPDATE`显式地加锁。
 ```
 select * from table_name where id=1 FOR UPDATE;
 select id,name,passwd from table_name where id=1 FOR UPDATE;
