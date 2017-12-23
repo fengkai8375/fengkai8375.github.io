@@ -3,7 +3,9 @@ layout: post
 title: "rsync配合inotify实时同步服务器文件"
 date: 2017-11-20 09:00:00 +0800 
 categories: Linux
-tag: rsync
+tag:
+ - rsync
+ - inotify
 ---
 * content
 {:toc}
