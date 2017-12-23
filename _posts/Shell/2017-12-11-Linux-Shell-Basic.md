@@ -8,7 +8,7 @@ tag: Shell
 * content
 {:toc}
 
-1. 变量
+### 变量
 
 ```
 a="Hello,World"  #等号两边最好不要带空格
@@ -16,7 +16,7 @@ echo $a
 echo "The value of a is ${a}"
 ```
 
-2. 条件控制
+### 条件控制
 
 ```
 b="Hello,World"
@@ -31,7 +31,7 @@ fi
 
 <!-- more -->
 
-3. 运算符
+### 运算符
 
 ```
 逻辑卷标	表示意思
@@ -83,7 +83,7 @@ fi
 -n	非空字符串
 ```
 
-4. 算术表达式
+### 算术表达式
 ```
 a=1
 let b=a*2
@@ -97,7 +97,7 @@ let e-=1
 ```
 
 
-5. for循环
+### for循环
 ```
 for i in {1..10}
 # for ((i=1;i<=10;i++))
@@ -106,7 +106,7 @@ do
 done
 ```
 
-6. while循环
+### while循环
 ```
 i=1
 while [ $i -le 10 ]

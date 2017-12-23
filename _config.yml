@@ -6,10 +6,10 @@ url: https://fengkai8375.github.io/
 resume_site: https://fengkai8375.github.io/me/
 github: https://github.com/fengkai8375/
 baseurl: ""  #根目录
-description: 世界以痛吻我，要我回报以歌。
-motto: 世界以痛吻我，要我回报以歌。
+description: 世界以痛吻我,要我回报以歌.
+motto: 世界以痛吻我,要我回报以歌.
 #motto: 如果生活欺骗了你，不要悲伤，不要哭泣。
-banner: 世界以痛吻我，要我回报以歌。
+banner: 世界以痛吻我,要我回报以歌.
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
 excerpt_separator:  '<!-- more -->' #文章摘要
