@@ -10,7 +10,7 @@ description: 世界以痛吻我,要我回报以歌.
 motto: 世界以痛吻我,要我回报以歌.
 banner: 生命注满了爱，就如酒杯斟满了酒。
 #permalink: /:categories/:year/:month/:day/:title/
-permalink: /:year/:month/:day/:title.html
+permalink: /:title.html
 excerpt_separator:  '<!-- more -->' #文章摘要
 paginate: 8
 paginate_path: "page:num"
