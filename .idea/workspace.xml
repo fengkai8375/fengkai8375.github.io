@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Linux/2017-11-21-Linux-Partion-New-Hard-Drive-Format.md" afterPath="$PROJECT_DIR$/_posts/Linux/2017-11-21-Linux-Partion-New-Hard-Drive-Format.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/WebServer/2017-02-08-Ngix-config-status.md" afterPath="$PROJECT_DIR$/_posts/WebServer/2017-02-08-Ngix-config-status.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,32 +15,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2017-10-18-PHP-Session-Cross-Domain.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/PHP/2017-10-18-PHP-Session-Cross-Domain.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-02-04-PHP-Debug-Methods.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/PHP/2016-02-04-PHP-Debug-Methods.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="468">
-                <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2017-07-26-JS-Prevent-Html-Auto-Complete.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/JavaScript/2017-07-26-JS-Prevent-Html-Auto-Complete.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -119,7 +93,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-02-10-Ngix-Disallow-IP-Access.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-02-10-Ngix-Disallow-IP-Access.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-10-Ngix-Disallow-IP-Access.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -132,12 +106,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-07-26-Ajax-Open-New-Window-Blocked.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/JavaScript/2017-07-26-Ajax-Open-New-Window-Blocked.md">
+      <file leaf-file-name="2017-02-11-Ngix-config-php-fpmstatus.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-11-Ngix-config-php-fpmstatus.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="288">
-                <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+              <first_editor relative-caret-position="774">
+                <caret line="43" column="65" lean-forward="false" selection-start-line="43" selection-start-column="65" selection-end-line="43" selection-end-column="65" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-02-01-vsftp-config.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-02-01-vsftp-config.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="594">
+                <caret line="33" column="64" lean-forward="false" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-02-08-Ngix-config-status.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-08-Ngix-config-status.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="36">
+                <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -233,6 +233,10 @@
         <option value="$PROJECT_DIR$/_posts/Linux/2017-11-21-Linux-Partion-New-Hard-Drive-Format.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2017-09-16-CentOs68-L2TP-VPN.md" />
         <option value="$PROJECT_DIR$/_posts/WebServer/2017-02-10-Ngix-Disallow-IP-Access.md" />
+        <option value="$PROJECT_DIR$/_posts/WebServer/2017-02-08-Ngix-config-status.md" />
+        <option value="$PROJECT_DIR$/_posts/WebServer/2017-02-11-Ngix-config-php-fpmstatus.md" />
+        <option value="$PROJECT_DIR$/_posts/Linux/2017-02-01-vsftpd-config.md" />
+        <option value="$PROJECT_DIR$/_posts/Linux/2017-02-01-vsftp-config.md" />
       </list>
     </option>
   </component>
@@ -513,8 +517,8 @@
       <recent name="F:\www\blog\_posts" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\www\blog\_posts\WebServer" />
       <recent name="F:\www\blog\_posts\Linux" />
+      <recent name="F:\www\blog\_posts\WebServer" />
       <recent name="F:\www\blog\_posts\JavaScript" />
       <recent name="F:\www\blog\_posts\PHP" />
       <recent name="F:\www\blog\_posts\Shell" />
@@ -608,12 +612,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513927840237</updated>
-      <workItem from="1513927841344" duration="13073000" />
+      <workItem from="1513927841344" duration="13497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13073000" />
+    <option name="totallyTimeSpent" value="13497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -649,25 +653,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_site/tag/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="205" column="167" lean-forward="false" selection-start-line="205" selection-start-column="167" selection-end-line="205" selection-end-column="167" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/JavaScript/2017-03-07-AJAX.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/JavaScript/2017-10-21-Understanding-ES6.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -954,17 +939,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-08-Ngix-config-status.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-09-Logrotate-Slice-Nginx-Logs.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1126,17 +1100,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-11-21-Linux-Partion-New-Hard-Drive-Format.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="414">
-            <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-09-16-CentOs68-L2TP-VPN.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1148,11 +1111,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-11-21-Linux-Partion-New-Hard-Drive-Format.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="414">
+            <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-10-Ngix-Disallow-IP-Access.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="432">
             <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-08-Ngix-config-status.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="36">
+            <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-11-Ngix-config-php-fpmstatus.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="774">
+            <caret line="43" column="65" lean-forward="false" selection-start-line="43" selection-start-column="65" selection-end-line="43" selection-end-column="65" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-02-01-vsftp-config.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="594">
+            <caret line="33" column="64" lean-forward="false" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
             <folding />
           </first_editor>
           <second_editor />

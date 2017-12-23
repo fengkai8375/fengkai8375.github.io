@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nginx不带www跳转到www"
+title: "Nginx配置status"
 date: 2017-02-08 09:00:00 +0800 
 categories: Linux
 tag: Nginx
