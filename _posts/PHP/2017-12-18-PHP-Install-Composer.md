@@ -8,14 +8,14 @@ tag: Composer
 * content
 {:toc}
 
-1. 安装Composer
+### 安装Composer
 
 ```
 curl -sS https://getcomposer.org/installer | php
 mv composer.phar /usr/local/bin/composer
 ```
 
-2. 使用Composer
+### 使用Composer
 
 ```
 composer global require "fxp/composer-asset-plugin:^1.3.1"
