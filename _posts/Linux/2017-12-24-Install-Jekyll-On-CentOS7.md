@@ -3,7 +3,9 @@ layout: post
 title: "CentOS7 Jekyll安装与使用"
 date: 2017-12-23 09:00:00 +0800 
 categories: Linux
-tag: Jekyll
+tag:
+ - Jekyll
+ - Ruby
 ---
 * content
 {:toc}
