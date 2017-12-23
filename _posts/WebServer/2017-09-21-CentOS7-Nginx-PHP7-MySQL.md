@@ -3,7 +3,10 @@ layout: post
 title: "CentOS7安装nginx php7 MySQL"
 date: 2017-09-21 09:00:00 +0800 
 categories: Linux
-tag: PHP
+tag:
+ - PHP
+ - MySQL
+ - Nginx
 ---
 * content
 {:toc}

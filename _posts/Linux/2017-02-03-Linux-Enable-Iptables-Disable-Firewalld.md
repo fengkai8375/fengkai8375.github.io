@@ -3,7 +3,9 @@ layout: post
 title: "RHEL7启用iptables 停用firewalld"
 date: 2017-02-03 09:00:00 +0800 
 categories: Linux
-tag: firewalld
+tag:
+ - firewalld
+ - iptables
 ---
 * content
 {:toc}
