@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/PHP/2017-12-25-PHP-Array-Foreach-Loop-Two-Methods.md" afterPath="$PROJECT_DIR$/_posts/PHP/2017-12-25-PHP-Array-Foreach-Loop-Two-Methods.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -97,8 +97,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/PHP/2017-12-25-PHP-Array-Foreach-Loop-Two-Methods.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="432">
-                <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+              <first_editor relative-caret-position="414">
+                <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -148,7 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_site/search.json" />
         <option value="$PROJECT_DIR$/_posts/Docker/2017-01-06-Docker-Common-Operation.md" />
         <option value="$PROJECT_DIR$/_posts/Shell/2017-12-11-Linux-Shell-Basic.md" />
         <option value="$PROJECT_DIR$/_posts/Docker/2017-07-05-Windows-Web-Test-Solution.md" />
@@ -199,6 +198,7 @@
         <option value="$PROJECT_DIR$/_posts/MySQL/2017-01-11-MySQL-Optimization-Summary.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/PHP/2017-12-25-PHP-Array-Loop-Two_Methods.md" />
+        <option value="$PROJECT_DIR$/_posts/PHP/2017-12-25-PHP-Array-Foreach-Loop-Two-Methods.md" />
       </list>
     </option>
   </component>
@@ -527,12 +527,12 @@
       <option name="presentableId" value="Default" />
       <updated>1513927840237</updated>
       <workItem from="1513927841344" duration="23110000" />
-      <workItem from="1514187936915" duration="203000" />
+      <workItem from="1514187936915" duration="473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23313000" />
+    <option name="totallyTimeSpent" value="23583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -1037,8 +1037,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/PHP/2017-12-25-PHP-Array-Foreach-Loop-Two-Methods.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="432">
-            <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <first_editor relative-caret-position="414">
+            <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor />
