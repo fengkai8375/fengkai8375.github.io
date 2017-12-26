@@ -42,8 +42,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/MySQL/2017-08-31-MySQL-Row-Lock.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="432">
-                <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <first_editor relative-caret-position="504">
+                <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -449,12 +449,12 @@
       <workItem from="1514187936915" duration="506000" />
       <workItem from="1514188971750" duration="970000" />
       <workItem from="1514250937642" duration="843000" />
-      <workItem from="1514275996463" duration="336000" />
+      <workItem from="1514275996463" duration="856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25765000" />
+    <option name="totallyTimeSpent" value="26285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -963,8 +963,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/MySQL/2017-08-31-MySQL-Row-Lock.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="432">
-            <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <first_editor relative-caret-position="504">
+            <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor />
