@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Hadoop/2017-12-27-Hadoop-Common-Problems.md" afterPath="$PROJECT_DIR$/_posts/Hadoop/2017-12-27-Hadoop-Common-Problems.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,8 +54,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/Hadoop/2017-12-27-Hadoop-Common-Problems.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="378">
-                <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <first_editor relative-caret-position="342">
+                <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -115,7 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_drafts/201x-xx-xx-Template.md" />
         <option value="$PROJECT_DIR$/_posts/Shell/2017-12-11-Linux-Shell-String.md" />
         <option value="$PROJECT_DIR$/_posts/Shell/2017-12-12-Linux-Shell-Files-And-Folder.md" />
         <option value="$PROJECT_DIR$/_posts/Shell/2017-12-13-Linux-Shell-Date-And-Time.md" />
@@ -166,6 +165,7 @@
         <option value="$PROJECT_DIR$/_posts/Hadoop/2017-12-26-Hadoop-Login-Without-Passwd.md" />
         <option value="$PROJECT_DIR$/_posts/MySQL/2017-08-31-MySQL-Row-Lock.md" />
         <option value="$PROJECT_DIR$/_drafts/2017-12-27-Hadoop-Common-Problems.md" />
+        <option value="$PROJECT_DIR$/_posts/Hadoop/2017-12-27-Hadoop-Common-Problems.md" />
       </list>
     </option>
   </component>
@@ -481,12 +481,12 @@
       <workItem from="1514188971750" duration="970000" />
       <workItem from="1514250937642" duration="843000" />
       <workItem from="1514275996463" duration="1399000" />
-      <workItem from="1514337586188" duration="87000" />
+      <workItem from="1514337586188" duration="238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26915000" />
+    <option name="totallyTimeSpent" value="27066000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -999,8 +999,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/Hadoop/2017-12-27-Hadoop-Common-Problems.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="378">
-            <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <first_editor relative-caret-position="342">
+            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

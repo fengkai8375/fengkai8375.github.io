@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xxxxxx"
+title: "Hadoop配置和运行中常见问题"
 date: 2017-12-27 09:00:00 +0800 
 categories: Hadoop
 tag: Hadoop
