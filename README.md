@@ -2,7 +2,7 @@
 
 AMBITI BLOG,Auther Feng Kai.
 
-采用Jekyll构建，托管于Github Pages上，fork自[Github](https://github.com/maoxiaoke/maoxiaoke.github.io)。
+采用Jekyll构建，托管于Github Pages上，fork自[Github](https://github.com/maoxiaoke/maoxiaoke.github.io)并做了修改，增强了SEO。
 
 个人专长：
 
