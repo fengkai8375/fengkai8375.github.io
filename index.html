@@ -18,16 +18,6 @@ title: AMBITI BLOG
                   </svg></a></span>
               </li>
               <li class="text-primary"><p class="lead">活在当下！</p></li>
-              <!--calendar-->
-              <script src="{{ '/styles/js/calendar.min.js' | prepend: site.baseurl }}"></script>
-              <li class="calendar"></li>
-              <script>var year = (new Date()).getFullYear() + 1;
-              new calendar('.calendar', {
-                limitRange: [
-                  ['today', year + '0101']
-                ],
-                isRange: true
-              });</script>
               <!--tags-->
               <li id="tagscloud">
                 {% if site.tags.first[0] == null %}
