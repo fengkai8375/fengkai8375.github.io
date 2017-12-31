@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CentOS7安装配置MySQL 5.7"
-date: 2018-01-01 09:00:00 +0800 
+date: 2017-12-31 09:00:00 +0800 
 categories: Linux
 tag:
  - MySQL
