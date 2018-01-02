@@ -6,11 +6,11 @@ categories: Golang
 tag:
  - Go
  - MySQL
---
+---
 * content
 {:toc}
 
-Golang操作MySQL数据库
+Golang操作MySQL数据库.
 
 ### 首先安装`Go`的`MySql`包
 
