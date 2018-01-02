@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Go/2018-01-02-Golang-Notes-Fundmental.md" afterPath="$PROJECT_DIR$/_posts/Go/2018-01-02-Golang-Notes-Fundmental.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,16 +20,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/LICENSE">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -73,12 +64,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-02-Golang-Notes-Fundmental.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-01-02-Golang-Notes-Fundmental.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-02-Golang-Notes-Fundmental.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="108">
-                <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <first_editor relative-caret-position="360">
+                <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-03-Golang-Notes-Struct.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_drafts/2018-01-03-Golang-Notes-Struct.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="450">
+                <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-04-Golang-Edition-Spider.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_drafts/2018-01-04-Golang-Edition-Spider.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="324">
+                <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-05-Golang-Work-With-MySQL.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_drafts/2018-01-05-Golang-Work-With-MySQL.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="306">
+                <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -151,9 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/JavaScript/2017-07-26-Plupload-Not-Word-In-IE9.md" />
-        <option value="$PROJECT_DIR$/_posts/JavaScript/2017-01-08-Wechat-Backward-Enfore-Reload.md" />
-        <option value="$PROJECT_DIR$/_posts/Linux/2017-11-10-Memcached-Not-Allow-Outside-Access.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2017-11-21-Linux-Partion-New-Hard-Drive-Format.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2017-09-16-CentOs68-L2TP-VPN.md" />
         <option value="$PROJECT_DIR$/_posts/WebServer/2017-02-10-Ngix-Disallow-IP-Access.md" />
@@ -201,7 +228,10 @@
         <option value="$PROJECT_DIR$/_drafts/2018-01-01-CentOS7-Install-MySQL7.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/Go/2018-01-01-Why-Golang-As-PHP-Second.md" />
+        <option value="$PROJECT_DIR$/_drafts/2018-01-03-Golang-Notes-Struct.md" />
         <option value="$PROJECT_DIR$/_posts/Go/2018-01-02-Golang-Notes-Fundmental.md" />
+        <option value="$PROJECT_DIR$/_drafts/2018-01-04-Golang-Edition-Spider.md" />
+        <option value="$PROJECT_DIR$/_drafts/2018-01-05-Golang-Work-With-MySQL.md" />
       </list>
     </option>
   </component>
@@ -479,8 +509,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\www\blog\_posts\Go" />
       <recent name="F:\www\blog\_drafts" />
+      <recent name="F:\www\blog\_posts\Go" />
       <recent name="F:\www\blog\_posts\MySQL" />
       <recent name="F:\www\blog\_posts\Docker" />
       <recent name="F:\www\blog\_posts\Hadoop" />
@@ -599,12 +629,12 @@
       <workItem from="1514518076121" duration="825000" />
       <workItem from="1514598084020" duration="697000" />
       <workItem from="1514768227653" duration="719000" />
-      <workItem from="1514854150108" duration="112000" />
+      <workItem from="1514854150108" duration="615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34495000" />
+    <option name="totallyTimeSpent" value="34998000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -640,36 +670,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-09-16-CentOs68-L2TP-VPN.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="30" column="3" lean-forward="false" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-11-21-Linux-Partion-New-Hard-Drive-Format.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="414">
-            <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-10-Ngix-Disallow-IP-Access.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="432">
-            <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-08-Ngix-config-status.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1126,8 +1126,41 @@
     <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-02-Golang-Notes-Fundmental.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="108">
-            <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <first_editor relative-caret-position="360">
+            <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/2018-01-03-Golang-Notes-Struct.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/2018-01-04-Golang-Edition-Spider.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="324">
+            <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/2018-01-05-Golang-Work-With-MySQL.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="306">
+            <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />
