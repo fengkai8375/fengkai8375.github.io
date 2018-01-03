@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Hadoop/2017-12-27-Hadoop-Common-Problems.md" afterPath="$PROJECT_DIR$/_posts/Hadoop/2017-12-27-Hadoop-Common-Problems.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/lefttree.html" afterPath="$PROJECT_DIR$/_includes/lefttree.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,17 +28,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-12-27-Hadoop-Common-Problems.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-12-27-Hadoop-Common-Problems.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/Hadoop/2017-12-27-Hadoop-Common-Problems.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1687">
-                <caret line="190" column="31" lean-forward="true" selection-start-line="190" selection-start-column="31" selection-end-line="190" selection-end-column="31" />
+              <first_editor relative-caret-position="211">
+                <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
                 <folding>
                   <marker date="1514966350318" expanded="true" signature="1820:1889" ph="..." />
                 </folding>
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lefttree.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/lefttree.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -136,7 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/MySQL/2017-12-30-MySQL-Upgrade-56-To-57.md" />
         <option value="$PROJECT_DIR$/_drafts/2018-xx-xx-Template.md" />
         <option value="$PROJECT_DIR$/_drafts/2018-01-01-CentOS7-Install-MySQL7.md" />
@@ -187,6 +197,7 @@
         <option value="$PROJECT_DIR$/_posts/WebServer/2017-02-11-Ngix-config-php-fpm-status.md" />
         <option value="$PROJECT_DIR$/_posts/WebServer/2017-09-21-CentOS7-Nginx-PHP7-MySQL.md" />
         <option value="$PROJECT_DIR$/_posts/Hadoop/2017-12-27-Hadoop-Common-Problems.md" />
+        <option value="$PROJECT_DIR$/_includes/lefttree.html" />
       </list>
     </option>
   </component>
@@ -221,7 +232,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -318,13 +329,27 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="_drafts" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -458,12 +483,13 @@
       <workItem from="1514943511232" duration="616000" />
       <workItem from="1514964827213" duration="1217000" />
       <workItem from="1514966203948" duration="32000" />
-      <workItem from="1514966334157" duration="21000" />
+      <workItem from="1514966334157" duration="53000" />
+      <workItem from="1514966764436" duration="37000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39914000" />
+    <option name="totallyTimeSpent" value="39983000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -499,17 +525,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/Docker/2017-07-05-Windows-Web-Test-Solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-01-Why-Golang-As-PHP-Second.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1096,13 +1111,21 @@
     <entry file="file://$PROJECT_DIR$/_posts/Hadoop/2017-12-27-Hadoop-Common-Problems.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1687">
-            <caret line="190" column="31" lean-forward="true" selection-start-line="190" selection-start-column="31" selection-end-line="190" selection-end-column="31" />
+          <first_editor relative-caret-position="211">
+            <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
             <folding>
               <marker date="1514966350318" expanded="true" signature="1820:1889" ph="..." />
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/lefttree.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
