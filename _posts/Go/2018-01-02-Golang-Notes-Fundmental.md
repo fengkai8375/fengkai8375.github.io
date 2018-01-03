@@ -17,7 +17,7 @@ Golang学习笔记之Golang基础.
 
 函数外的每个语句都必须以关键字开始（`var`、`func`等等），`:=` 结构不能使用在函数外。
 
-```
+```go
 func main(){
     a := "Hello"
     b, c, d := 1, "World", false
@@ -29,7 +29,7 @@ func main(){
 
 用类型+括号实现类型转换。
 
-```
+```go
 var k = float64(2) //  k := float64(2)
 ```
 
@@ -39,7 +39,7 @@ var k = float64(2) //  k := float64(2)
 
 用 `const`声明常量，常量不能用`:=`定义。
 
-```
+```go
 const  Pi = 3.1415926
 ```
 
@@ -47,7 +47,7 @@ const  Pi = 3.1415926
 
 数组声明的方式为`[长度]类型{逗号分隔的元素列表}`，示例如下：
 
-```
+```go
 nums := [10]int{}
 for i:=0;i<10;i++{
 	students[i] = i
@@ -59,13 +59,13 @@ students := []string{}  //长度不定的空数组
 ```
 
 数组长度通过`len`方法获取
-```
+```go
 count := len(names)
 ```
 
 数组切片
 
-```
+```go
 names2 := names[:] // 初始化，等同于names的引用
 names2 := names[startIndex:endIndex] //从startIndex到endIndex-1中间的元素
 names2 := names[startIndex:] //从startIndex到最后
@@ -76,7 +76,7 @@ names2 := names[:endIndex] //从开始到endIndex-1
 
 Golang只有一种循环，`for`，除了不带`()`，其它跟其它语言一样。
 
-```
+```go
 func my_loop() int {
 	sum := 0
 	for i := 0; i < 10; i++{
@@ -110,7 +110,7 @@ func my_loop_array() int {
 
 Golang的`switch`不带`break`
 
-```
+```go
 func my_switch(){
 	switch os := runtime.GOOS; os{
 	case "linux" :
@@ -131,7 +131,7 @@ func my_switch(){
 
 延时语句的代码会立刻生成，但直到上层函数返回时它才会被执行。
 
-```
+```go
 func main(){
     defer fmt.Println("defer execute")
     fmt.Println("Hello World")

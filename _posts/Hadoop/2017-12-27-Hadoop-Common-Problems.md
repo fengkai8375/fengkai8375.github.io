@@ -21,7 +21,7 @@ tag: Hadoop
 
 #### 环境变量
 
-```
+```shell
 # java
 export JAVA_HOME=/usr/java/jdk1.8.0_111
 export JRE_HOME=/usr/java/jdk1.8.0_111/jre
@@ -43,7 +43,7 @@ export HADOOP_OPTS="-Djava.library.path=${HADOOP_HOME}/lib:${HADOOP_HOME}/lib/na
 
 #### 运行hadoop服务
 
-```
+```shell
 sbin/start-all.sh
 
 # 或
@@ -54,14 +54,14 @@ sbin/start-yarn.sh
 
 #### 查看当前运行的服务
 
-```
+```shell
 jps
 ```
 
 #### 文件操作
 基本同linux文件操作
 
-```
+```shell
 hadoop fs -mkdir input  # 创建文件夹
 
 hadoop fs -rm -r input  # 删除文件夹
@@ -100,7 +100,7 @@ hdfs dfs -cat input/file1.txt # 查看文件，也可用 hadoop fs
 
 1. 将本地测试好的程序打成jar包
 
-    ```
+    ```shell
     jar -cvf yourname.jar -C bin/ . 
     # 导出成 Jar/Runnable Jar容易出问题，所以最好是手动打包
     ```
@@ -109,7 +109,7 @@ hdfs dfs -cat input/file1.txt # 查看文件，也可用 hadoop fs
 
 3. 运行 
 
-    ```
+    ```shell
     hadoop jar word_count.jar yourMainClass param1 param2
     ```
 
@@ -117,7 +117,7 @@ hdfs dfs -cat input/file1.txt # 查看文件，也可用 hadoop fs
 
 这是权限问题，可通过修改 ```hdfs-site.xml```修改
 
-```
+```shell
 <property>
     <name>dfs.permission</name>
     <value>false</value>
@@ -129,16 +129,16 @@ hdfs dfs -cat input/file1.txt # 查看文件，也可用 hadoop fs
 
 #### jibsplitmapinfo.xml does not exist
 
-```
+
 可能跟hadoop或eclipse插件的版本有关，找不到正确的hdfs所致，2.7.3下暂时无解。
-```
+
 
 #### datenode起不来
 windows下容易出问题，不折腾它。Linux下可以通过重新格式namenode来解决
 
 #### 格式化
 
-```
+```shell
 hdfs namenode -fromat
 ```
 
@@ -153,13 +153,13 @@ hdfs namenode -fromat
 #### win下一直auth as Administrator (simple)
 
 在程序中加两行
-```
+```shell
 conf.set("mapreduce.framework.name", "yarn");
 conf.set("yarn.resourcemanager.address", "master:8032");
 ```
 
 #### eclipse中以某个用户的身份运行
-```
+```shell
 -DHADOOP_USER_NAME=root
 ```
 
@@ -172,7 +172,7 @@ conf.set("yarn.resourcemanager.address", "master:8032");
 3. 确保各个节点间可以互相ssh
 
 4. 关闭安全模式
-    ```
+    ```shell
     hadoop dfsadmin -safemode leave
     ```
 
@@ -186,7 +186,7 @@ conf.set("yarn.resourcemanager.address", "master:8032");
 
 #### eclipes中no job jar set
 没有指定jar file，需要生成一个jar指定路径
-```
+```shell
 File jarFile = EJob.createTempJar("bin");
 job.setJar(jarFile.toString());
 ```

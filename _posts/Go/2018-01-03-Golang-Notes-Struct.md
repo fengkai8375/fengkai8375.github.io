@@ -12,7 +12,7 @@ tag:
 Golang学习笔记之结构体Struct.
 
 ### 结构Struct声明
-```
+```go
 type HtmlUrl struct{
 	url string
 	depth int
@@ -20,7 +20,7 @@ type HtmlUrl struct{
 ```
 
 ### 结构体实例化
-```
+```go
 firstHtml := HtmlUrl{}
 firstHtml.url = "http://github.com"
 firstHtml.depth = 1
