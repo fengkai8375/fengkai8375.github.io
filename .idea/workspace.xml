@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_drafts/2018-01-03-Golang-Notes-Struct.md" afterPath="$PROJECT_DIR$/_posts/Go/2018-01-03-Golang-Notes-Struct.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Go/2018-01-03-Golang-Notes-Struct.md" afterPath="$PROJECT_DIR$/_posts/Go/2018-01-03-Golang-Notes-Struct.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,12 +53,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-10-Golang-Goquery-Phrase-Html-Dom.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2018-01-10-Golang-Goquery-Phrase-Html-Dom.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_drafts/2018-01-10-Golang-Goquery-Phrase-Html-Dom.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="396">
-                <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+              <first_editor relative-caret-position="324">
+                <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -80,12 +79,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-03-Golang-Notes-Struct.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-01-03-Golang-Notes-Struct.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-03-Golang-Notes-Struct.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+              <first_editor relative-caret-position="54">
+                <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-07-Golang-Notes-Package.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_drafts/2018-01-07-Golang-Notes-Package.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="378">
+                <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-04-Golang-Edition-Spider.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_drafts/2018-01-04-Golang-Edition-Spider.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="324">
+                <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-05-Golang-Work-With-MySQL.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_drafts/2018-01-05-Golang-Work-With-MySQL.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="216">
+                <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -135,7 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/Linux/2017-02-01-vsftpd-config.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2017-02-01-vsftp-config.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2017-02-02-Linux-Firewalld-Opeartion.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2017-02-03-Linux-Enable-Iptables-Disable-Firewalld.md" />
@@ -186,6 +223,7 @@
         <option value="$PROJECT_DIR$/_drafts/2018-01-08-Bootstrap-Table-Thead-Freeze-Tbody-Scroll.md" />
         <option value="$PROJECT_DIR$/_drafts/2018-01-09-Golang-Http-GET-POST.md" />
         <option value="$PROJECT_DIR$/_drafts/2018-01-10-Golang-Goquery-Phrase-Html-Dom.md" />
+        <option value="$PROJECT_DIR$/_posts/Go/2018-01-03-Golang-Notes-Struct.md" />
       </list>
     </option>
   </component>
@@ -585,15 +623,15 @@
       <workItem from="1514768227653" duration="719000" />
       <workItem from="1514854150108" duration="1511000" />
       <workItem from="1514858253383" duration="936000" />
-      <workItem from="1514941554336" duration="54000" />
+      <workItem from="1514941554336" duration="276000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36884000" />
+    <option name="totallyTimeSpent" value="37106000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1029,6 +1067,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-02-Golang-Notes-Fundmental.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="666">
+            <caret line="37" column="6" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-03-Golang-Notes-Struct.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_drafts/2018-01-04-Golang-Edition-Spider.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1051,11 +1111,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-02-Golang-Notes-Fundmental.md">
+    <entry file="file://$PROJECT_DIR$/_drafts/2018-01-06-Golang-Notes-Channel.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="666">
-            <caret line="37" column="6" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+          <first_editor relative-caret-position="288">
+            <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1067,17 +1127,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="378">
             <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_drafts/2018-01-06-Golang-Notes-Channel.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="288">
-            <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1109,19 +1158,8 @@
     <entry file="file://$PROJECT_DIR$/_drafts/2018-01-10-Golang-Goquery-Phrase-Html-Dom.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="396">
-            <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-03-Golang-Notes-Struct.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <first_editor relative-caret-position="324">
+            <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor />
