@@ -153,7 +153,7 @@ hdfs namenode -fromat
 #### win下一直auth as Administrator (simple)
 
 在程序中加两行
-```shell
+```java
 conf.set("mapreduce.framework.name", "yarn");
 conf.set("yarn.resourcemanager.address", "master:8032");
 ```
@@ -186,7 +186,7 @@ conf.set("yarn.resourcemanager.address", "master:8032");
 
 #### eclipes中no job jar set
 没有指定jar file，需要生成一个jar指定路径
-```shell
+```java
 File jarFile = EJob.createTempJar("bin");
 job.setJar(jarFile.toString());
 ```
