@@ -117,7 +117,7 @@ hdfs dfs -cat input/file1.txt # 查看文件，也可用 hadoop fs
 
 这是权限问题，可通过修改 ```hdfs-site.xml```修改
 
-```shell
+```xml
 <property>
     <name>dfs.permission</name>
     <value>false</value>
