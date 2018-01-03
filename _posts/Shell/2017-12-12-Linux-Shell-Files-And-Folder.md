@@ -10,7 +10,7 @@ tag: Shell
 
 ### 文件夹下的文件和文件夹列表
 
-```
+```shell
 folder="/home/fengkai/shells"
 des="/home/fengkai/sh2"
 for file_a in ${folder}/*

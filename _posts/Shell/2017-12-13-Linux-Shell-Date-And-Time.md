@@ -10,7 +10,7 @@ tag: Shell
 
 ### 日期和时间
 
-```
+```shell
 #date and time
 today=`date +"%y%m%d"`
 echo $today
@@ -31,7 +31,7 @@ echo "Next Month of today is ${next_month}"
 
 ### 时间戳
 
-```
+```shell
 #timestamp
 time=`date +"%s"`
 echo $time

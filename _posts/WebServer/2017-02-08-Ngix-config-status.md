@@ -13,14 +13,14 @@ tag: Nginx
 ### 步骤1
 首先检查nginx编译时有没有包含```http_stub_status_module```
 命令：
-``` shell
+```shell
 nginx -V 2>&1 | grep -o with-http_stub_status_module
 ```
 
 <!-- more -->
 
 如果出现
-``` shell
+```shell
 with-http_stub_status_module
 ```
 
@@ -38,7 +38,7 @@ with-http_stub_status_module
 
 ### 步骤3 
 重启 nginx
-``` shell
+```shell
 service nginx restart
 ```
 

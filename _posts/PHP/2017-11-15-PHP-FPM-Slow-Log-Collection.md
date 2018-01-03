@@ -10,7 +10,7 @@ tag: PHP
 
 编辑php-fpm配置文件
 
-```
+```shell
 vi /etc/php-fpm.d/www.conf
 ```
 

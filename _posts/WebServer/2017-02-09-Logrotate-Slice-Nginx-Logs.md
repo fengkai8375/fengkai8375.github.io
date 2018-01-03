@@ -24,7 +24,7 @@ tag:
 ## 步骤1
 
 编辑 /etc/logrotate.d/nginx 
-``` shell
+```shell
 vi /etc/logrotate.d/nginx  
 ```
 内容如下
@@ -46,16 +46,16 @@ endscript
 ```
 
 ## 步骤2 测试是否可用
-``` shell
+```shell
 /usr/sbin/logrotate -f /etc/logrotate.d/nginx 
 ```
 
 ## 步骤3 配置定时任务
-``` shell
+```shell
 crontab -e
 ```
 然后添加一行：
-``` shell
+```shell
 00 00 * * *  /usr/sbin/logrotate -f /etc/logrotate.d/nginx
 ```
 

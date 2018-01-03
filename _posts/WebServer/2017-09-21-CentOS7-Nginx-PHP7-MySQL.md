@@ -20,7 +20,8 @@ tag:
 4. memcache目录下运行`./configure`需要修改php-config的路径
 
 ### firewalld
-```
+
+```shell
 systemctl stop firewalld
 systemctl disable firewalld
 ```
@@ -29,7 +30,7 @@ systemctl disable firewalld
 
 ### Nginx
 
-```
+```shell
 rpm -Uvh http://ftp.iij.ad.jp/pub/linux/fedora/epel/7/x86_64/Packages/e/epel-release-7-11.noarch.rpm
 rpm -Uvh http://rpms.famillecollet.com/enterprise/remi-release-7.rpm
 yum -y install nginx
@@ -38,7 +39,8 @@ systemctl start nginx
 ```
 
 ### PHP
-```
+
+```shell
 rpm -Uvh https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
 rpm -Uvh https://mirror.webtatic.com/yum/el7/webtatic-release.rpm
 yum install php70w php70w-fpm php70w-devel
@@ -48,7 +50,8 @@ systemctl start php-fpm
 ```
 
 ### MySQL
-```
+
+```shell
 rpm -ivh http://dev.mysql.com/get/mysql-community-release-el7-5.noarch.rpm
 yum install mysql-community-server
 systemctl start mysqld
@@ -57,7 +60,8 @@ mysql_secure_installation
 ```
 
 ### Memcached和memcache扩展
-```
+
+```shell
 yum install memcached
 systemctl start memcached
 systemctl enable memcached
@@ -81,7 +85,7 @@ vi memcache.ini
 
 ### Redis扩展
 
-```
+```shell
 wget http://pecl.php.net/get/redis-3.1.2.tgz
 tar -zxvf redis-3.1.2.tgz
 cd redis-3.1.2
@@ -96,7 +100,8 @@ vi redis.ini
 ```
 
 ### php-fpm
-```
+
+```shell
 user = nginx
 group = nginx
 php_value[session.save_handler] = memcache
@@ -105,7 +110,7 @@ php_value[session.save_path]    = "tcp://127.0.0.1:11211"
 
 ### selinux
 
-```
+```shell
 setenforce 0
 
 vi /etc/sysconfig/selinux

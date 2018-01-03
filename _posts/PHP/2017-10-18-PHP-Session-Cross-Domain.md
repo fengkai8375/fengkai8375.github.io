@@ -12,7 +12,7 @@ tag:
 
 ## 第一步 配置php memcache扩展
 
-```
+```shell
 wget http://pecl.php.net/get/memcache-2.2.7.tgz
 
 tar -xzf memcache-2.2.7.tgz
@@ -27,13 +27,13 @@ make install
 
 编辑 php.ini，启用memcache扩展
 
-```
+```shell
 extension=memcache.so
 ```
 
 ## 第二步 php.ini session配置
 
-```
+```shell
 session.save_handler = memcache
 
 #将127.0.0.1改为你的memcached服务器ip
@@ -42,14 +42,14 @@ session.save_path = "tcp://127.0.0.1:11211"
 
 ## 第三步 重启php-fpm
 
-```
+```shell
 systemctl restart php-fpm
 ```
 
 
 ## 第四步 修改php代码
 
-```
+```php
 //放在程序的最前面，域名前面不要加 .
 ini_set('session.cookie_domain', 'yourdomain.com'); 
 ```

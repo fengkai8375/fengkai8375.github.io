@@ -12,7 +12,7 @@ tag: Nginx
 
 
 修改 nginx.conf，在 ```http```中加上
-``` shell
+```shell
 deny 180.97.106.161;
 deny 180.97.106.162;
 ```
@@ -22,7 +22,7 @@ deny 180.97.106.162;
 <!-- more -->
 
 也可以封禁ip段
-``` shell
+```shell
 deny 180.97.106.0/24;
 deny 180.97.0.0/16;
 deny 180.0.0.0/8;
@@ -30,7 +30,7 @@ deny 180.0.0.0/8;
 
 重启 **nginx**
 
-``` shell
+```shell
 service nginx restart
 #  service nginx reload 也可以
 ```

@@ -10,7 +10,7 @@ tag: Shell
 
 ### 变量
 
-```
+```shell
 a="Hello,World"  #等号两边最好不要带空格
 echo $a
 echo "The value of a is ${a}"
@@ -18,7 +18,7 @@ echo "The value of a is ${a}"
 
 ### 条件控制
 
-```
+```shell
 b="Hello,World"
 //中括号的两侧都要有空格
 //中括号中的等号两则只能是字符串
@@ -84,7 +84,8 @@ fi
 ```
 
 ### 算术表达式
-```
+
+```shell
 a=1
 let b=a*2
 c=$[a*3]
@@ -98,7 +99,8 @@ let e-=1
 
 
 ### for循环
-```
+
+```shell
 for i in {1..10}
 # for ((i=1;i<=10;i++))
 do
@@ -107,7 +109,8 @@ done
 ```
 
 ### while循环
-```
+
+```shell
 i=1
 while [ $i -le 10 ]
 # while (($i<=100))

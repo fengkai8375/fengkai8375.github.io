@@ -10,14 +10,14 @@ tag: Composer
 
 ### 安装Composer
 
-```
+```shell
 curl -sS https://getcomposer.org/installer | php
 mv composer.phar /usr/local/bin/composer
 ```
 
 ### 使用Composer
 
-```
+```shell
 composer global require "fxp/composer-asset-plugin:^1.3.1"
 composer create-project yiisoft/yii2-app-basic basic 2.0.12
 ```

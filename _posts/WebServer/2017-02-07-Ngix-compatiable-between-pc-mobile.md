@@ -18,7 +18,7 @@ tag: Nginx
 
 请看```nginx```配置
 
-``` shell
+```shell
 server
 {
       listen       80;
@@ -48,7 +48,7 @@ server
 
 最后不要忘了重启 nginx 
 
-```
+```shell
 service nginx restart
 ```
 

@@ -8,7 +8,7 @@ tag: Nginx
 * content
 {:toc}
 
-```
+```shell
 if ($host = 'test.cn'){
     rewrite ^/(.*)$ http://www.test.cn/$1 permanent;
 }

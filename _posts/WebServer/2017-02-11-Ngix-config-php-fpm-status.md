@@ -15,7 +15,7 @@ tag:
 ###  步骤1
 
 修改 ```nginx.conf```, 在 ```server```块中添加
-``` shell
+```shell
     location ~ ^/php_fpm_status$ {
          include fastcgi_params;
          fastcgi_pass 127.0.0.1:9000;
@@ -29,7 +29,7 @@ tag:
 ### 步骤2
 修改 ```php-fpm.conf```，取消 ```pm.status_path = ``` 那一行的注释，并修改为
 
-``` shell
+```shell
 pm.status_path = /php_fpm_status
 ```
 
@@ -38,7 +38,7 @@ pm.status_path = /php_fpm_status
 ### 步骤3
 重启nginx和php-fpm
 
-``` shell
+```shell
 service nginx restart
 service php-fpm restart
 ```

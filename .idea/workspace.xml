@@ -2,30 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_drafts/2018-01-04-Golang-Edition-Spider.md" afterPath="$PROJECT_DIR$/_drafts/2018-01-04-Golang-Edition-Spider.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_drafts/2018-01-05-Golang-Work-With-MySQL.md" afterPath="$PROJECT_DIR$/_drafts/2018-01-05-Golang-Work-With-MySQL.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_drafts/2018-01-06-Golang-Notes-Channel.md" afterPath="$PROJECT_DIR$/_drafts/2018-01-06-Golang-Notes-Channel.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_drafts/2018-01-07-Golang-Notes-Package.md" afterPath="$PROJECT_DIR$/_drafts/2018-01-07-Golang-Notes-Package.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_drafts/2018-01-08-Bootstrap-Table-Thead-Freeze-Tbody-Scroll.md" afterPath="$PROJECT_DIR$/_drafts/2018-01-08-Bootstrap-Table-Thead-Freeze-Tbody-Scroll.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_drafts/2018-01-09-Golang-Http-GET-POST.md" afterPath="$PROJECT_DIR$/_drafts/2018-01-09-Golang-Http-GET-POST.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_drafts/2018-01-10-Golang-Goquery-Phrase-Html-Dom.md" afterPath="$PROJECT_DIR$/_drafts/2018-01-10-Golang-Goquery-Phrase-Html-Dom.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Hadoop/2017-12-28-Hadoop-Common-Config-Files.md" afterPath="$PROJECT_DIR$/_posts/Hadoop/2017-12-28-Hadoop-Common-Config-Files.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/JavaScript/2017-01-10-Plupload-Not-Work-In-IE9.md" afterPath="$PROJECT_DIR$/_posts/JavaScript/2017-01-10-Plupload-Not-Work-In-IE9.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/JavaScript/2017-07-26-JS-Prevent-Html-Auto-Complete.md" afterPath="$PROJECT_DIR$/_posts/JavaScript/2017-07-26-JS-Prevent-Html-Auto-Complete.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Linux/2017-02-01-vsftp-config.md" afterPath="$PROJECT_DIR$/_posts/Linux/2017-02-01-vsftp-config.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Linux/2017-02-02-Linux-Firewalld-Opeartion.md" afterPath="$PROJECT_DIR$/_posts/Linux/2017-02-02-Linux-Firewalld-Opeartion.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Linux/2017-02-03-Linux-Enable-Iptables-Disable-Firewalld.md" afterPath="$PROJECT_DIR$/_posts/Linux/2017-02-03-Linux-Enable-Iptables-Disable-Firewalld.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Linux/2017-02-04-Linux-User-Group.md" afterPath="$PROJECT_DIR$/_posts/Linux/2017-02-04-Linux-User-Group.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Linux/2017-09-16-CentOs68-L2TP-VPN.md" afterPath="$PROJECT_DIR$/_posts/Linux/2017-09-16-CentOs68-L2TP-VPN.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Linux/2017-11-10-Memcached-Not-Allow-Outside-Access.md" afterPath="$PROJECT_DIR$/_posts/Linux/2017-11-10-Memcached-Not-Allow-Outside-Access.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Linux/2017-11-20-Rsync-Inotify-Sync-Servers.md" afterPath="$PROJECT_DIR$/_posts/Linux/2017-11-20-Rsync-Inotify-Sync-Servers.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Linux/2017-11-21-Linux-Partion-New-Hard-Drive-Format.md" afterPath="$PROJECT_DIR$/_posts/Linux/2017-11-21-Linux-Partion-New-Hard-Drive-Format.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Linux/2017-12-24-Install-Jekyll-On-CentOS7.md" afterPath="$PROJECT_DIR$/_posts/Linux/2017-12-24-Install-Jekyll-On-CentOS7.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Linux/2017-12-31-CentOS7-Install-MySQL57.md" afterPath="$PROJECT_DIR$/_posts/Linux/2017-12-31-CentOS7-Install-MySQL57.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/MySQL/2017-08-31-MySQL-Row-Lock.md" afterPath="$PROJECT_DIR$/_posts/MySQL/2017-08-31-MySQL-Row-Lock.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/MySQL/2017-09-08-MySQL-Modify-User-Password.md" afterPath="$PROJECT_DIR$/_posts/MySQL/2017-09-08-MySQL-Modify-User-Password.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/MySQL/2017-12-29-MySQL-Create-User-Grant-Privileges.md" afterPath="$PROJECT_DIR$/_posts/MySQL/2017-12-29-MySQL-Create-User-Grant-Privileges.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/PHP/2017-10-18-PHP-Session-Cross-Domain.md" afterPath="$PROJECT_DIR$/_posts/PHP/2017-10-18-PHP-Session-Cross-Domain.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/PHP/2017-11-15-PHP-FPM-Slow-Log-Collection.md" afterPath="$PROJECT_DIR$/_posts/PHP/2017-11-15-PHP-FPM-Slow-Log-Collection.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/PHP/2017-12-18-PHP-Install-Composer.md" afterPath="$PROJECT_DIR$/_posts/PHP/2017-12-18-PHP-Install-Composer.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/PHP/2017-12-25-PHP-Array-Foreach-Loop-Two-Methods.md" afterPath="$PROJECT_DIR$/_posts/PHP/2017-12-25-PHP-Array-Foreach-Loop-Two-Methods.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Shell/2017-12-11-Linux-Shell-Basic.md" afterPath="$PROJECT_DIR$/_posts/Shell/2017-12-11-Linux-Shell-Basic.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Shell/2017-12-11-Linux-Shell-String.md" afterPath="$PROJECT_DIR$/_posts/Shell/2017-12-11-Linux-Shell-String.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Shell/2017-12-12-Linux-Shell-Files-And-Folder.md" afterPath="$PROJECT_DIR$/_posts/Shell/2017-12-12-Linux-Shell-Files-And-Folder.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/Shell/2017-12-13-Linux-Shell-Date-And-Time.md" afterPath="$PROJECT_DIR$/_posts/Shell/2017-12-13-Linux-Shell-Date-And-Time.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/WebServer/2017-02-06-Ngix-nowww-jump-to-www.md" afterPath="$PROJECT_DIR$/_posts/WebServer/2017-02-06-Ngix-nowww-jump-to-www.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/WebServer/2017-02-07-Ngix-compatiable-between-pc-mobile.md" afterPath="$PROJECT_DIR$/_posts/WebServer/2017-02-07-Ngix-compatiable-between-pc-mobile.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/WebServer/2017-02-08-Ngix-config-status.md" afterPath="$PROJECT_DIR$/_posts/WebServer/2017-02-08-Ngix-config-status.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/WebServer/2017-02-09-Logrotate-Slice-Nginx-Logs.md" afterPath="$PROJECT_DIR$/_posts/WebServer/2017-02-09-Logrotate-Slice-Nginx-Logs.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/WebServer/2017-02-10-Ngix-Disallow-IP-Access.md" afterPath="$PROJECT_DIR$/_posts/WebServer/2017-02-10-Ngix-Disallow-IP-Access.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/WebServer/2017-02-11-Ngix-config-php-fpm-status.md" afterPath="$PROJECT_DIR$/_posts/WebServer/2017-02-11-Ngix-config-php-fpm-status.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/WebServer/2017-09-21-CentOS7-Nginx-PHP7-MySQL.md" afterPath="$PROJECT_DIR$/_posts/WebServer/2017-09-21-CentOS7-Nginx-PHP7-MySQL.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,12 +28,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-01-06-Golang-Notes-Channel.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_drafts/2018-01-06-Golang-Notes-Channel.md">
+      <file leaf-file-name="2017-12-11-Linux-Shell-String.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/Shell/2017-12-11-Linux-Shell-String.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="603">
-                <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+              <first_editor relative-caret-position="198">
+                <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -50,12 +41,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-09-Golang-Http-GET-POST.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_drafts/2018-01-09-Golang-Http-GET-POST.md">
+      <file leaf-file-name="2017-12-12-Linux-Shell-Files-And-Folder.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/Shell/2017-12-12-Linux-Shell-Files-And-Folder.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="607">
-                <caret line="61" column="5" lean-forward="false" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+              <first_editor relative-caret-position="216">
+                <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -63,12 +54,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-10-Golang-Goquery-Phrase-Html-Dom.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_drafts/2018-01-10-Golang-Goquery-Phrase-Html-Dom.md">
+      <file leaf-file-name="2017-12-13-Linux-Shell-Date-And-Time.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/Shell/2017-12-13-Linux-Shell-Date-And-Time.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="306">
-                <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <first_editor relative-caret-position="594">
+                <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -76,12 +67,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-09-08-MySQL-Modify-User-Password.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/MySQL/2017-09-08-MySQL-Modify-User-Password.md">
+      <file leaf-file-name="2017-02-06-Ngix-nowww-jump-to-www.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-06-Ngix-nowww-jump-to-www.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="432">
-                <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+              <first_editor relative-caret-position="180">
+                <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -89,12 +80,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-07-Golang-Notes-Package.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_drafts/2018-01-07-Golang-Notes-Package.md">
+      <file leaf-file-name="2017-02-07-Ngix-compatiable-between-pc-mobile.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-07-Ngix-compatiable-between-pc-mobile.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="774">
-                <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+              <first_editor relative-caret-position="661">
+                <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -102,46 +93,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-08-Bootstrap-Table-Thead-Freeze-Tbody-Scroll.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_drafts/2018-01-08-Bootstrap-Table-Thead-Freeze-Tbody-Scroll.md">
+      <file leaf-file-name="2017-02-08-Ngix-config-status.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-08-Ngix-config-status.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-95">
-                <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-                <folding>
-                  <marker date="1514965367553" expanded="true" signature="335:1480" ph="..." />
-                  <marker date="1514965367553" expanded="true" signature="367:1473" ph="..." />
-                  <marker date="1514965367553" expanded="false" signature="391:453" ph="..." />
-                  <marker date="1514965367553" expanded="true" signature="454:635" ph="..." />
-                  <marker date="1514965367553" expanded="true" signature="467:618" ph="..." />
-                  <marker date="1514965367553" expanded="false" signature="659:710" ph="..." />
-                  <marker date="1514965367553" expanded="true" signature="711:1460" ph="..." />
-                  <marker date="1514965367553" expanded="true" signature="724:894" ph="..." />
-                  <marker date="1514965367553" expanded="true" signature="741:833" ph="..." />
-                  <marker date="1514965367553" expanded="true" signature="907:1077" ph="..." />
-                  <marker date="1514965367553" expanded="true" signature="924:1016" ph="..." />
-                  <marker date="1514965367553" expanded="true" signature="1090:1260" ph="..." />
-                  <marker date="1514965367553" expanded="true" signature="1107:1199" ph="..." />
-                  <marker date="1514965367553" expanded="true" signature="1273:1443" ph="..." />
-                  <marker date="1514965367553" expanded="true" signature="1290:1382" ph="..." />
-                  <marker date="1514965367553" expanded="true" signature="1512:2027" ph="..." />
-                  <marker date="1514965367553" expanded="true" signature="1531:2017" ph="{...}" />
-                  <marker date="1514965367553" expanded="true" signature="1744:1829" ph="{...}" />
-                  <marker date="1514965367553" expanded="true" signature="1878:2009" ph="{...}" />
-                  <marker date="1514965367553" expanded="true" signature="1923:1999" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-12-29-MySQL-Create-User-Grant-Privileges.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/MySQL/2017-12-29-MySQL-Create-User-Grant-Privileges.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="468">
-                <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+              <first_editor relative-caret-position="720">
+                <caret line="40" column="3" lean-forward="false" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -149,12 +106,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-04-Golang-Edition-Spider.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_drafts/2018-01-04-Golang-Edition-Spider.md">
+      <file leaf-file-name="2017-02-09-Logrotate-Slice-Nginx-Logs.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-09-Logrotate-Slice-Nginx-Logs.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="517">
-                <caret line="169" column="5" lean-forward="false" selection-start-line="169" selection-start-column="5" selection-end-line="169" selection-end-column="5" />
+              <first_editor relative-caret-position="702">
+                <caret line="57" column="3" lean-forward="true" selection-start-line="57" selection-start-column="3" selection-end-line="57" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -162,12 +119,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-05-Golang-Work-With-MySQL.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_drafts/2018-01-05-Golang-Work-With-MySQL.md">
+      <file leaf-file-name="2017-02-10-Ngix-Disallow-IP-Access.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-10-Ngix-Disallow-IP-Access.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="697">
-                <caret line="92" column="5" lean-forward="false" selection-start-line="92" selection-start-column="5" selection-end-line="92" selection-end-column="5" />
+              <first_editor relative-caret-position="576">
+                <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -175,12 +132,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-12-30-MySQL-Upgrade-56-To-57.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/MySQL/2017-12-30-MySQL-Upgrade-56-To-57.md">
+      <file leaf-file-name="2017-02-11-Ngix-config-php-fpm-status.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-11-Ngix-config-php-fpm-status.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="342">
-                <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <first_editor relative-caret-position="720">
+                <caret line="40" column="3" lean-forward="true" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-09-21-CentOS7-Nginx-PHP7-MySQL.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-09-21-CentOS7-Nginx-PHP7-MySQL.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="967">
+                <caret line="112" column="8" lean-forward="false" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -230,21 +200,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/_includes/head.html" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/MySQL/2017-08-31-MySQL-Optimization-Summary.md" />
-        <option value="$PROJECT_DIR$/_posts/MySQL/2017-01-11-MySQL-Optimization-Summary.md" />
-        <option value="$PROJECT_DIR$/_posts/PHP/2017-12-25-PHP-Array-Loop-Two_Methods.md" />
-        <option value="$PROJECT_DIR$/_posts/PHP/2017-12-25-PHP-Array-Foreach-Loop-Two-Methods.md" />
-        <option value="$PROJECT_DIR$/_includes/header.html" />
-        <option value="$PROJECT_DIR$/_drafts/2017-12-27-Hadoop-Common-Problems.md" />
-        <option value="$PROJECT_DIR$/_drafts/2017-12-28-Hadoop-Common-Config-Files.md" />
-        <option value="$PROJECT_DIR$/_posts/Docker/2017-12-01-Last-6-Month-Skill-Improvements.md" />
-        <option value="$PROJECT_DIR$/_drafts/2017-xx-xx-Template.md" />
-        <option value="$PROJECT_DIR$/_posts/Linux/2017-12-01-Last-6-Month-Skill-Improvements.md" />
-        <option value="$PROJECT_DIR$/LICENSE" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/MySQL/2017-12-30-MySQL-Upgrade-56-To-57.md" />
         <option value="$PROJECT_DIR$/_drafts/2018-xx-xx-Template.md" />
@@ -281,6 +236,21 @@
         <option value="$PROJECT_DIR$/_drafts/2018-01-08-Bootstrap-Table-Thead-Freeze-Tbody-Scroll.md" />
         <option value="$PROJECT_DIR$/_drafts/2018-01-09-Golang-Http-GET-POST.md" />
         <option value="$PROJECT_DIR$/_drafts/2018-01-10-Golang-Goquery-Phrase-Html-Dom.md" />
+        <option value="$PROJECT_DIR$/_posts/PHP/2017-10-18-PHP-Session-Cross-Domain.md" />
+        <option value="$PROJECT_DIR$/_posts/PHP/2017-11-15-PHP-FPM-Slow-Log-Collection.md" />
+        <option value="$PROJECT_DIR$/_posts/PHP/2017-12-18-PHP-Install-Composer.md" />
+        <option value="$PROJECT_DIR$/_posts/PHP/2017-12-25-PHP-Array-Foreach-Loop-Two-Methods.md" />
+        <option value="$PROJECT_DIR$/_posts/Shell/2017-12-11-Linux-Shell-Basic.md" />
+        <option value="$PROJECT_DIR$/_posts/Shell/2017-12-11-Linux-Shell-String.md" />
+        <option value="$PROJECT_DIR$/_posts/Shell/2017-12-12-Linux-Shell-Files-And-Folder.md" />
+        <option value="$PROJECT_DIR$/_posts/Shell/2017-12-13-Linux-Shell-Date-And-Time.md" />
+        <option value="$PROJECT_DIR$/_posts/WebServer/2017-02-06-Ngix-nowww-jump-to-www.md" />
+        <option value="$PROJECT_DIR$/_posts/WebServer/2017-02-07-Ngix-compatiable-between-pc-mobile.md" />
+        <option value="$PROJECT_DIR$/_posts/WebServer/2017-02-08-Ngix-config-status.md" />
+        <option value="$PROJECT_DIR$/_posts/WebServer/2017-02-09-Logrotate-Slice-Nginx-Logs.md" />
+        <option value="$PROJECT_DIR$/_posts/WebServer/2017-02-10-Ngix-Disallow-IP-Access.md" />
+        <option value="$PROJECT_DIR$/_posts/WebServer/2017-02-11-Ngix-config-php-fpm-status.md" />
+        <option value="$PROJECT_DIR$/_posts/WebServer/2017-09-21-CentOS7-Nginx-PHP7-MySQL.md" />
       </list>
     </option>
   </component>
@@ -394,6 +364,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebServer" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shell" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -682,12 +692,12 @@
       <workItem from="1514858253383" duration="936000" />
       <workItem from="1514941554336" duration="1198000" />
       <workItem from="1514943511232" duration="616000" />
-      <workItem from="1514964827213" duration="540000" />
+      <workItem from="1514964827213" duration="807000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39184000" />
+    <option name="totallyTimeSpent" value="39451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -723,143 +733,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/Rsync-Inotify-Sync-Servers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/PHP/2017-12-25-PHP-Array-Foreach-Loop-Two-Methods.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reference.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_drafts/2018-01-01-CentOS7-Install-MySQL57.md" />
-    <entry file="file://$PROJECT_DIR$/_drafts/2017-xx-xx-Template.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="288">
-            <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="288">
-            <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/robots.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_drafts/2018-xx-xx-Template.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="216">
-            <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/Docker/2017-01-06-Docker-Common-Operation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="733">
-            <caret line="120" column="8" lean-forward="false" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/Docker/2017-07-05-Windows-Web-Test-Solution.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1272,6 +1145,193 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="306">
             <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/PHP/2016-02-04-PHP-Debug-Methods.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/PHP/2017-10-18-PHP-Session-Cross-Domain.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="783">
+            <caret line="54" column="3" lean-forward="true" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/PHP/2017-11-14-PHP-Session-experience.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/PHP/2017-11-15-PHP-FPM-Slow-Log-Collection.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/PHP/2017-12-18-PHP-Install-Composer.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/PHP/2017-12-25-PHP-Array-Foreach-Loop-Two-Methods.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="594">
+            <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/Shell/2017-12-11-Linux-Shell-Basic.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2016">
+            <caret line="112" column="8" lean-forward="false" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/Shell/2017-12-11-Linux-Shell-String.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/Shell/2017-12-12-Linux-Shell-Files-And-Folder.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/Shell/2017-12-13-Linux-Shell-Date-And-Time.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="594">
+            <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-06-Ngix-nowww-jump-to-www.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-07-Ngix-compatiable-between-pc-mobile.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="661">
+            <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-08-Ngix-config-status.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="720">
+            <caret line="40" column="3" lean-forward="false" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-09-Logrotate-Slice-Nginx-Logs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="702">
+            <caret line="57" column="3" lean-forward="true" selection-start-line="57" selection-start-column="3" selection-end-line="57" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-10-Ngix-Disallow-IP-Access.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="576">
+            <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-11-Ngix-config-php-fpm-status.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="720">
+            <caret line="40" column="3" lean-forward="true" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-09-21-CentOS7-Nginx-PHP7-MySQL.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="967">
+            <caret line="112" column="8" lean-forward="false" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />

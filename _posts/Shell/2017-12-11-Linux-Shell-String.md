@@ -9,7 +9,8 @@ tag: Shell
 {:toc}
 
 ###  字符串长度和简单截取
-```
+
+```shell
 str="Hello,World!"
 strlen=${#str} # 字符串长度
 echo $strlen
