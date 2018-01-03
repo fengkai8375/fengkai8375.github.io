@@ -12,7 +12,7 @@ Hadoop常用的几个配置文件：
 
 ### hadoop-env.sh
 
-```
+```shell
 # 只修改下面一项即可
 export JAVA_HOME=/usr/java/jdk1.8.0_111
 
@@ -22,7 +22,7 @@ export JAVA_HOME=/usr/java/jdk1.8.0_111
 <!-- more -->
 
 ### core-site.xml
-```
+```xml
 <configuration>
 <property>
 
@@ -45,7 +45,7 @@ export JAVA_HOME=/usr/java/jdk1.8.0_111
 ```
 
 ### hdfs-site.xml
-```
+```xml
 <configuration>
         <property>
                 <name>dfs.namenode.name.dir</name>
@@ -80,7 +80,7 @@ export JAVA_HOME=/usr/java/jdk1.8.0_111
 ```
 
 ### mapred-site.xml
-```
+```xml
 <configuration>
 <property>
                 <name>mapreduce.framework.name</name>
@@ -109,7 +109,7 @@ export JAVA_HOME=/usr/java/jdk1.8.0_111
 
 
 ### yarn-site.xml
-```
+```xml
 <configuration>
 
 <!-- Site specific YARN configuration properties -->

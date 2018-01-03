@@ -9,17 +9,17 @@ tag: firewalld
 {:toc}
 
 列出所有受允许的端口
-``` shell
+```shell
 firewall-cmd --list-ports
 ```
 
 添加允许的端口
-``` shell
+```shell
 firewall-cmd --permanent --add-port=1000-2000/tcp
 ```
 
 重新载入firewalld
-``` shell
+```shell
 firewall-cmd --reload
 ```
 

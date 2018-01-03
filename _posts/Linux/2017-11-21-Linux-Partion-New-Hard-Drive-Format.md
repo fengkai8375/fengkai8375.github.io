@@ -27,7 +27,7 @@ tag: fdisk
 
 ### 格式化
 
-```
+```shell
 mkfs -t xfs /dev/vdb1
 ```
 
@@ -36,7 +36,7 @@ mkfs -t xfs /dev/vdb1
 ### 挂载
 
 将分区`/dev/vdb1`挂载到`/data`目录下
-```
+```shell
 mkdir /data
 mount /dev/vdb1 /data
 ```
@@ -47,6 +47,6 @@ mount /dev/vdb1 /data
 
 示例：
 
-```
+```shell
 /dev/vdb1 /data  xfs defaults 0 0
 ```

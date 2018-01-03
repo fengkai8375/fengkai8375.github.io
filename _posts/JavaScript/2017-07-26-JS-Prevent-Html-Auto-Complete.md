@@ -13,7 +13,7 @@ tag:
 
 最有效的方法先设置成`只读`，获取焦点时再取消只读。
 
-```
+```html
 <input readonly onfocus="this.removeAttribute('readonly');" />
 ```
 

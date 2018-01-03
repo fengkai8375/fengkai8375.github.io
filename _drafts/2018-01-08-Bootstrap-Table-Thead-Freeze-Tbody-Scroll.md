@@ -24,7 +24,7 @@ tag:
 
 > 由于用的是Bootstrap，所以需要先引入相关的CSS和JS，我这里省略了。
 
-```
+```html
 <div id="data_area">
     <table class="scrolltable">
         <thead style="display:block;overflow-y: scroll;border-bottom:1px solid #eee;">

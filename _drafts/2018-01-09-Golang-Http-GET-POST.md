@@ -12,7 +12,7 @@ tag:
 Golang中GET/POST表单可使用`http`包方便的实现。
 
 ### GET
-```
+```go
 url := "http://www.yourl.com"
 resp, err := http.get(url)
 ```
@@ -23,7 +23,7 @@ resp, err := http.get(url)
 
 #### 方式1
 
-```
+```go
 url := "http://www.yourl.com";
 data := make(url2.Values) // data := url2.Values{}
 
@@ -36,7 +36,7 @@ defer resp.Body.Close()
 
 #### 方式2
 
-```
+```go
 url := "http://www.yourl.com";
 data := url2.Values{}
 
@@ -59,7 +59,7 @@ defer resp.Body.Close()
 
 ### 获取GET/POST的结果
 
-```
+```go
 statusCode := resp.StatusCode
 
 content,err := ioutil.ReadAll(resp.Body)

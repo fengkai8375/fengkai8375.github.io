@@ -10,7 +10,7 @@ tag: VPN
 
 安装命令
 
-```
+```shell
 cd /opt/ && wget --no-check-certificate https://raw.githubusercontent.com/teddysun/across/master/l2tp.sh
 chmod +x l2tp.sh
 ./l2tp.sh install
@@ -26,26 +26,26 @@ chmod +x l2tp.sh
 部署完成后需要修改
 
 `vi  /etc/sysconfig/iptables`  
-```
+```shell
 -A POSTROUTING -s 192.168.18.0/24 -j SNAT --to-source 172.31.103.51 
 ```
 `to-source`的地址是服务器的内网地址
 
 `vi /etc/xl2tpd/xl2tpd.conf`，修改`local ip` 为服务器内网ip
-```
+```shell
 local ip = 172.31.103.51
 ```
 
 最后重启 `iptables`和`xl2tpd`
 
-```
+```shell
 service iptables restart
 service xl2tpd restart
 ```
 
 附上完整的iptables配置
 
-```
+```shell
 # Added by L2TP VPN script
 *filter
 :INPUT ACCEPT [0:0]
@@ -69,7 +69,7 @@ COMMIT
 
 xl2tpd配置
 
-```
+```shell
 [global]
 port = 1701
 

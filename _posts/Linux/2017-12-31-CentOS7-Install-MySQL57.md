@@ -13,7 +13,7 @@ tag:
 
 ### 配置yum源
 
-```
+```shell
 # 下载mysql源安装包
 wget http://dev.mysql.com/get/mysql57-community-release-el7-10.noarch.rpm
 # 安装mysql源
@@ -28,26 +28,26 @@ yum repolist enabled | grep "mysql.*-community.*"
 
 ### 安装MySQL 5.7
 
-```
+```shell
 yum install mysql
 ```
 
 ### 初始化
 
-```
+```shell
 mysqld --initialize --user=mysql --datadir=/var/lib/mysql
 ```
 
 如果提示 
 
-```
+```shell
 [ERROR] --initialize specified but the data directory has files in it. Aborting.
 [ERROR] Aborting
 ```
 
 表示 `/var/lib/mysql`目录有文件存在，把这个目录删除后再重装初始化即可。
 
-```
+```shell
 rm -rf /var/lib/mysql
 ```
 
@@ -57,21 +57,21 @@ rm -rf /var/lib/mysql
 
 ### 启动mysqld服务
 
-```
+```shell
 systemctl enable mysqld # 开机自启
 systemctl start mysqld
 ```
 
 ### 登录MySQL Server
 
-```
+```shell
 mysql -uroot -p  # 然后输入临时密码
 
 ```
 
 登录成功后，通过命令重设root密码
 
-```
+```shell
 set password = password("newpassword");
 flush privileges;
 ```

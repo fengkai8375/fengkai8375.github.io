@@ -11,7 +11,7 @@ tag:
 
 ### 创建新用户
 
-```
+```shell
 use mysql;
 
 # 任意主机，host用 % 
@@ -24,7 +24,7 @@ flush privileges;
 
 ### 创建新的数据库并授权
 
-```
+```shell
 CREATE DATABASE IF NOT EXISTS yourdbname DEFAULT CHARSET utf8 COLLATE utf8_general_ci;
 
 # *.* 表示对所有数据库的所有表授权

@@ -16,7 +16,7 @@ plupload在IE9下点击可能会出现没反应的情况，这个问题是由于
 
 所以我首选```flash```作为上传图片的方式。配置如下：
 
-```
+```html
 runtimes : 'flash,html5,silverlight,browserplus,gears,html4',
 flash_swf_url : '/javascript/plupload/Moxie.swf',
 silverlight_xap_url : '/javascript/plupload/Moxie.xap',

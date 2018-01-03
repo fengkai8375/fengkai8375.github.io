@@ -14,7 +14,7 @@ tag:
 ### 备份服务器配置
 
 安装配置rsync
-```
+```shell
 yum install rsync
 mkdir /usr/local/rsync
 echo "backup:bk_password" > /usr/local/rsync/rsyncd.passwd
@@ -25,12 +25,12 @@ chmod 600 rsyncd.passwd
 <!-- more -->
 
 编辑rsync配置文件
-```
+```shell
 vi /etc/rsyncd.conf
 ```
 
 内容为 
-```
+```shell
 uid = root
 gid = root
 use chroot = no
@@ -54,7 +54,7 @@ secrets file = /usr/local/rsync/rsyncd.passwd
 ```
 
 开启服务
-```
+```shell
 systemctl start rsyncd
 systemctl enable rsyncd
 ```
@@ -63,7 +63,7 @@ systemctl enable rsyncd
 
 安装配置rsync
 
-```
+```shell
 yum install rsync
 mkdir /usr/local/rsync
 echo "bk_password" > /usr/local/rsync/rsyncd.passwd
@@ -72,12 +72,12 @@ chmod 600 rsyncd.passwd
 ```
 
 编辑rsync配置文件
-```
+```shell
 vi /etc/rsyncd.conf
 ```
 
 内容为 
-```
+```shell
 uid = root
 gid = root
 use chroot = no
@@ -102,20 +102,20 @@ secrets file = /usr/local/rsync/rsyncd.passwd
 
 
 开启服务
-```
+```shell
 systemctl start rsyncd
 systemctl enable rsyncd
 ```
 
 同步一次文件
 
-```
+```shell
 rsync -vzrtopg --delete --progress --password-file=/usr/local/rsync/rsyncd.passwd backup@192.168.1.102
 ```
 
 安装配置inofity
 
-```
+```shell
 yum install inotify-tools
 cd /usr/local/rsync
 vi inotify_rsync.sh
@@ -123,7 +123,7 @@ vi inotify_rsync.sh
 
 内容为
 
-```
+```shell
 #!/bin/bash
 host=192.168.1.102
 src=/var/www/
@@ -142,7 +142,7 @@ done
 `/usr/bin/rsync`的参数中 `--delete`为删除，意指当主服务器删除文件时，备份服务器也跟着删除，没有这个参数时不会删除。
 
 最后，开启inotify的实时同步
-```
+```shell
 chmod 764 inotify_rsync.sh
 # 可加到/etc/rc.d/rc.local开机自启
 sh /usr/local/rsync/inotify_rsync.sh & 

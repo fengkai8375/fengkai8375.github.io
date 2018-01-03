@@ -40,7 +40,7 @@ tag:
 
 ### 实现代码
 
-```
+```go
 package Spider
 
 import (
@@ -167,7 +167,7 @@ func SpiderGo(config Config){
 
 ### 开始抓取
 
-```
+```go
 func main(){
     config := Spider.Config{}
 	config.MaxDepth = 2

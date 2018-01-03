@@ -16,7 +16,7 @@ Red Hat Enterprice Linux(RHEL) 7，当然也包括``` CentOS 7 ```，防火墙�
 
 命令
 
-``` shell
+```shell
 yum install -y iptables-services
 ```
 
@@ -26,14 +26,14 @@ yum install -y iptables-services
 
 命令: 
 
-``` shell
+```shell
 systemctl mask firewalld
 systemctl enable iptables
 ```
 
 如果需要使用 ip6tables , 需另外加一行
 
-``` shell
+```shell
 systemctl enable ip6tables
 ```
 
@@ -41,13 +41,13 @@ systemctl enable ip6tables
 
 命令: 
 
-``` shell
+```shell
 systemctl stop firewalld
 systemctl start iptables
 ```
 同上，如果需要使用 ip6tables , 需另外加一行
 
-``` shell
+```shell
 systemctl start ip6tables
 ```
 

@@ -15,13 +15,13 @@ Golang学习笔记之channel
 
 channel声明方式，通过`make`方法创建
 
-```
+```go
 my_chans := make(chan int, 20) //类型为int，长度为20
 ```
 
 ### channel操作
 
-```
+```go
 a := 1
 b := 2
 my_chans := make(chan int, 20)
@@ -37,7 +37,7 @@ d := <- mychans //从channel中取出
 ### 超时定时器
 
 防止读取`channel`超时的定时器，超时时间设置为5s。
-```
+```go
 select {
 	case <- time.After(time.Second * 5) :
 		fmt.Println("timeout")

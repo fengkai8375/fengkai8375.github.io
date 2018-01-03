@@ -12,13 +12,13 @@ tag:
 Golang中Html Dom解析可使用第三方库`goquery`实现，就像用`jQuery`操作节点一样方便。
 
 ### 安装 goquery
-```
+```shell
 go get github.com/PuerkitoBio/goquery
 ```
 
 ### 引用
 
-```
+```go
 import "github.com/PuerkitoBio/goquery"
 ```
 
@@ -26,7 +26,7 @@ import "github.com/PuerkitoBio/goquery"
 
 ### 创建Document
 
-```
+```go
 document,err := goquery.NewDocument(url)
 if err != nil {
 	panic(err)
@@ -35,7 +35,7 @@ if err != nil {
 
 ### 获取页面标题和所有链接
 
-```
+```go
 //页面标题
 document_title := document.Find("title").Eq(0).Text()
 fmt.Println("Document Title:", document_title)

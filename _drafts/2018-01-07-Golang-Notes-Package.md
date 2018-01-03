@@ -19,7 +19,7 @@ Golang学习笔记之自定义package包
 
 Go文件的开头须标记`package`名
 
-```
+```go
 package Spider
 ```
 
@@ -27,7 +27,7 @@ package Spider
 
 **注意**：需要被外部访问的变量、方法、结构体等必须以大写字母开头，不然外部访问不了!例如：
 
-```
+```go
 func SpiderGo(){
  ...   
 }
@@ -35,13 +35,13 @@ func SpiderGo(){
 
 ### 在同一个项目中引入它
 
-```
+```go
 import `ProjectName/Spider`
 ```
 
 ### 使用package中的方法
 
-```
+```go
 Spider.SpiderGo()
 ```
 

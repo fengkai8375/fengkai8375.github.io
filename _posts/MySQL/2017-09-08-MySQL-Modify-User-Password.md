@@ -11,7 +11,7 @@ tag:
 
 #### 方法1
 适用于版本`<=5.6`的MySQL及已经重置过密码的MySQL5.7。
-```
+```shell
 use mysql; 
 update user set password=password('123') where user='root' and host='localhost'; 
 flush privileges; 
@@ -22,7 +22,7 @@ flush privileges;
 ### 方法2
 
 该方法适用于刚刚初始化完的MySQL5.7数据库
-```
+```shell
 set password = password("newpass");
 flush privileges; 
 ```

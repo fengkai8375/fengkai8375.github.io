@@ -14,20 +14,20 @@ Golang操作MySQL数据库.
 
 ### 首先安装`Go`的`MySql`包
 
-```
+```shell
 go get -u github.com/go-sql-driver/mysql
 ```
 
 ### 引入包
 
-```
+```go
 import "database/sql"
 import _ "github.com/go-sql-driver/mysql"
 ```
 
 ### 数据库连接
 
-```
+```go
 db, err := sql.Open("mysql", "user:password@tcp(127.0.0.1:3306)/dbname?charset=utf8")
 ```
 
@@ -36,7 +36,7 @@ db, err := sql.Open("mysql", "user:password@tcp(127.0.0.1:3306)/dbname?charset=u
 
 ### 插入
 
-```
+```go
 stmt, err := db.Prepare("INSERT admin SET username=?,nickname=?,email=?")
 checkErr(err)
 
@@ -51,7 +51,7 @@ fmt.Println(id)
 
 ### 查询
 
-```
+```go
 rows,err := db.Query("select id,email,username,nickname,password,moble from   admin")
 checkErr(err)
 
@@ -77,7 +77,7 @@ for rows.Next() {
 
 ### 更新
 
-```
+```go
 stmt,err := db.Prepare("update admin set nickname='haha1' where id=?")
 checkErr(err)
 
@@ -90,7 +90,7 @@ fmt.Println(affected)
 
 删除数据的写法跟更新一样。
 
-```
+```go
 db.Prepare("delete from admin where id=?")
 ```
 

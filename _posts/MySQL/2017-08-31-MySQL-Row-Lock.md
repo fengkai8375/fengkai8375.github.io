@@ -18,7 +18,7 @@ MySQL中`select`默认不加锁，但可以显式地给数据加上共享锁或�
 
 加共享锁写法：
 
-``` SQL
+```sql
 select * from table_name where id=1 LOCK IN SHARE MODE;
 select id,name,passwd from table_name where id=1 LOCK IN SHARE MODE;
 ```
@@ -30,7 +30,7 @@ select id,name,passwd from table_name where id=1 LOCK IN SHARE MODE;
 
 加排他锁写法：
 
-``` SQL
+```sql
 select * from table_name where id=1 FOR UPDATE;
 select id,name,passwd from table_name where id=1 FOR UPDATE;
 ```

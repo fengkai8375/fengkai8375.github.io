@@ -13,7 +13,7 @@ tag:
 
 ### 安装Ruby
 
-```
+```shell
 yum install centos-release-scl-rh
 yum install rh-ruby23  -y  # jekyll要求ruby版本大于2.2.5
 scl  enable  rh-ruby23 bash
@@ -24,19 +24,19 @@ gem -v  # 查看gem版本
 <!-- more -->
 
 ### 安装jekyll
-```
+```shell
 gem install jekyll
 ```
 
 ### 安装jekyll-paginate
-```
+```shell
 gem install jekyll-paginate
 ```
 
 ### 运行jekyll
 
 切换到Github Page仓库所在的目录
-```
+```shell
 jekyll serve -w --host=0.0.0.0 --incremental # 外网可访问，增量模式
 jekyll build  # 构建应用
 ```
