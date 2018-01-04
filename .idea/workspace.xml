@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/lefttree.html" afterPath="$PROJECT_DIR$/_includes/lefttree.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_drafts/2018-01-04-Golang-Edition-Spider.md" afterPath="$PROJECT_DIR$/_posts/Go/2018-01-04-Golang-Edition-Spider.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,7 +28,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-12-27-Hadoop-Common-Problems.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2017-12-27-Hadoop-Common-Problems.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/Hadoop/2017-12-27-Hadoop-Common-Problems.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -39,16 +39,6 @@
                 </folding>
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lefttree.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/lefttree.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -232,7 +222,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -329,6 +318,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Go" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="_includes" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -349,6 +356,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -356,18 +364,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\www\blog\_drafts" />
-      <recent name="F:\www\blog\_posts\Go" />
-      <recent name="F:\www\blog\_posts\MySQL" />
-      <recent name="F:\www\blog\_posts\Docker" />
-      <recent name="F:\www\blog\_posts\Hadoop" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\www\blog\_posts\Go" />
       <recent name="F:\www\blog\_posts\MySQL" />
       <recent name="F:\www\blog\_drafts" />
       <recent name="F:\www\blog\_posts\Linux" />
+      <recent name="F:\www\blog\_posts\Hadoop" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\www\blog\_drafts" />
+      <recent name="F:\www\blog\_posts\Go" />
+      <recent name="F:\www\blog\_posts\MySQL" />
+      <recent name="F:\www\blog\_posts\Docker" />
       <recent name="F:\www\blog\_posts\Hadoop" />
     </key>
   </component>
@@ -484,15 +492,16 @@
       <workItem from="1514964827213" duration="1217000" />
       <workItem from="1514966203948" duration="32000" />
       <workItem from="1514966334157" duration="53000" />
-      <workItem from="1514966764436" duration="37000" />
+      <workItem from="1514966764436" duration="635000" />
+      <workItem from="1515030814898" duration="246000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39983000" />
+    <option name="totallyTimeSpent" value="40827000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -530,7 +539,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="396">
             <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -541,7 +549,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="639">
             <caret line="133" column="5" lean-forward="false" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -552,7 +559,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="396">
             <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -563,7 +569,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="693">
             <caret line="90" column="17" lean-forward="true" selection-start-line="90" selection-start-column="17" selection-end-line="90" selection-end-column="17" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -574,25 +579,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="405">
             <caret line="111" column="6" lean-forward="false" selection-start-line="111" selection-start-column="6" selection-end-line="111" selection-end-column="6" />
-            <folding>
-              <marker date="1514965099422" expanded="true" signature="318:593" ph="..." />
-              <marker date="1514965099422" expanded="true" signature="329:479" ph="..." />
-              <marker date="1514965099422" expanded="true" signature="493:576" ph="..." />
-              <marker date="1514965099422" expanded="true" signature="639:1506" ph="..." />
-              <marker date="1514965099422" expanded="true" signature="658:792" ph="..." />
-              <marker date="1514965099422" expanded="true" signature="811:945" ph="..." />
-              <marker date="1514965099422" expanded="true" signature="964:1062" ph="..." />
-              <marker date="1514965099422" expanded="true" signature="1078:1171" ph="..." />
-              <marker date="1514965099422" expanded="true" signature="1186:1295" ph="..." />
-              <marker date="1514965099422" expanded="true" signature="1310:1395" ph="..." />
-              <marker date="1514965099422" expanded="true" signature="1410:1489" ph="..." />
-              <marker date="1514965099422" expanded="true" signature="1554:2229" ph="..." />
-              <marker date="1514965099422" expanded="true" signature="1565:1711" ph="..." />
-              <marker date="1514965099422" expanded="true" signature="1727:1834" ph="..." />
-              <marker date="1514965099422" expanded="true" signature="1849:1951" ph="..." />
-              <marker date="1514965099422" expanded="true" signature="1966:2075" ph="..." />
-              <marker date="1514965099422" expanded="true" signature="2094:2212" ph="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -603,7 +589,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -614,7 +599,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="432">
             <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -625,7 +609,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -636,7 +619,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="342">
             <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -647,7 +629,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="576">
             <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -658,7 +639,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="378">
             <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -669,7 +649,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="666">
             <caret line="49" column="3" lean-forward="false" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -680,7 +659,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="630">
             <caret line="35" column="8" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -691,7 +669,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="517">
             <caret line="71" column="8" lean-forward="false" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -702,7 +679,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="450">
             <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -713,7 +689,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="648">
             <caret line="144" column="8" lean-forward="false" selection-start-line="144" selection-start-column="8" selection-end-line="144" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -724,7 +699,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="882">
             <caret line="49" column="8" lean-forward="false" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -735,7 +709,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="324">
             <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -746,7 +719,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="684">
             <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -757,7 +729,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="679">
             <caret line="73" column="8" lean-forward="false" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -768,7 +739,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="432">
             <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -779,12 +749,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="540">
             <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-            <folding>
-              <marker date="1514965367579" expanded="true" signature="253:307" ph="select * fro... table_name" />
-              <marker date="1514965367579" expanded="true" signature="309:376" ph="select id,na... table_name" />
-              <marker date="1514965367579" expanded="true" signature="495:541" ph="select * fro... table_name" />
-              <marker date="1514965367579" expanded="true" signature="543:602" ph="select id,na... table_name" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -795,7 +759,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="432">
             <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -806,7 +769,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="468">
             <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -817,7 +779,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="342">
             <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -828,7 +789,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="603">
             <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -839,7 +799,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="774">
             <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -850,7 +809,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="607">
             <caret line="61" column="5" lean-forward="false" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -861,7 +819,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -872,7 +829,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="783">
             <caret line="54" column="3" lean-forward="true" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -883,7 +839,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -894,7 +849,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="216">
             <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -905,7 +859,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="342">
             <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -916,7 +869,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="594">
             <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -927,7 +879,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="2016">
             <caret line="112" column="8" lean-forward="false" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -938,7 +889,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="198">
             <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -949,7 +899,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="216">
             <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -960,7 +909,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="594">
             <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -971,7 +919,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
             <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1026,7 +973,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="864">
             <caret line="48" column="28" lean-forward="true" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1037,28 +983,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="648">
             <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-            <folding>
-              <marker date="1514965367553" expanded="true" signature="335:1480" ph="..." />
-              <marker date="1514965367553" expanded="true" signature="367:1473" ph="..." />
-              <marker date="1514965367553" expanded="false" signature="391:453" ph="..." />
-              <marker date="1514965367553" expanded="true" signature="454:635" ph="..." />
-              <marker date="1514965367553" expanded="true" signature="467:618" ph="..." />
-              <marker date="1514965367553" expanded="false" signature="659:710" ph="..." />
-              <marker date="1514965367553" expanded="true" signature="711:1460" ph="..." />
-              <marker date="1514965367553" expanded="true" signature="724:894" ph="..." />
-              <marker date="1514965367553" expanded="true" signature="741:833" ph="..." />
-              <marker date="1514965367553" expanded="true" signature="907:1077" ph="..." />
-              <marker date="1514965367553" expanded="true" signature="924:1016" ph="..." />
-              <marker date="1514965367553" expanded="true" signature="1090:1260" ph="..." />
-              <marker date="1514965367553" expanded="true" signature="1107:1199" ph="..." />
-              <marker date="1514965367553" expanded="true" signature="1273:1443" ph="..." />
-              <marker date="1514965367553" expanded="true" signature="1290:1382" ph="..." />
-              <marker date="1514965367553" expanded="true" signature="1512:2027" ph="..." />
-              <marker date="1514965367553" expanded="true" signature="1531:2017" ph="{...}" />
-              <marker date="1514965367553" expanded="true" signature="1744:1829" ph="{...}" />
-              <marker date="1514965367553" expanded="true" signature="1878:2009" ph="{...}" />
-              <marker date="1514965367553" expanded="true" signature="1923:1999" ph="{...}" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1069,13 +993,12 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="661">
             <caret line="50" column="8" lean-forward="false" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_drafts/2018-01-04-Golang-Edition-Spider.md">
+    <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-04-Golang-Edition-Spider.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1813">
@@ -1091,7 +1014,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="720">
             <caret line="40" column="3" lean-forward="false" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1108,6 +1030,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/lefttree.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/Hadoop/2017-12-27-Hadoop-Common-Problems.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1118,14 +1048,6 @@
             </folding>
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/lefttree.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
