@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bootstrap创建表头不动内容滚动且对齐的表格"
-date: 2018-01-08 09:00:00 +0800 
+date: 2018-01-06 09:00:00 +0800 
 categories: JavaScript
 tag:
  - JavaScript
