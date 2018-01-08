@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/2018-01-08-Bootstrap-Table-Thead-Freeze-Tbody-Scroll.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_drafts/2018-01-06-Golang-Notes-Channel.md" afterPath="$PROJECT_DIR$/_drafts/2018-01-08-Golang-Notes-Channel.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_drafts/2018-01-07-Golang-Notes-Package.md" afterPath="$PROJECT_DIR$/_posts/Go/2018-01-08-Golang-Notes-Package.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,46 +28,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-06-Bootstrap-Table-Thead-Freeze-Tbody-Scroll.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/JavaScript/2018-01-06-Bootstrap-Table-Thead-Freeze-Tbody-Scroll.md">
+      <file leaf-file-name="2018-01-08-Golang-Notes-Package.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-08-Golang-Notes-Package.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="126">
-                <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-                <folding>
-                  <marker date="1515201392765" expanded="true" signature="335:1480" ph="..." />
-                  <marker date="1515201392765" expanded="true" signature="367:1473" ph="..." />
-                  <marker date="1515201392765" expanded="false" signature="391:453" ph="..." />
-                  <marker date="1515201392765" expanded="true" signature="454:635" ph="..." />
-                  <marker date="1515201392765" expanded="true" signature="467:618" ph="..." />
-                  <marker date="1515201392765" expanded="false" signature="659:710" ph="..." />
-                  <marker date="1515201392765" expanded="true" signature="711:1460" ph="..." />
-                  <marker date="1515201392765" expanded="true" signature="724:894" ph="..." />
-                  <marker date="1515201392765" expanded="true" signature="741:833" ph="..." />
-                  <marker date="1515201392765" expanded="true" signature="907:1077" ph="..." />
-                  <marker date="1515201392765" expanded="true" signature="924:1016" ph="..." />
-                  <marker date="1515201392765" expanded="true" signature="1090:1260" ph="..." />
-                  <marker date="1515201392765" expanded="true" signature="1107:1199" ph="..." />
-                  <marker date="1515201392765" expanded="true" signature="1273:1443" ph="..." />
-                  <marker date="1515201392765" expanded="true" signature="1290:1382" ph="..." />
-                  <marker date="1515201392765" expanded="true" signature="1512:2027" ph="..." />
-                  <marker date="1515201392765" expanded="true" signature="1531:2017" ph="{...}" />
-                  <marker date="1515201392765" expanded="true" signature="1744:1829" ph="{...}" />
-                  <marker date="1515201392765" expanded="true" signature="1878:2009" ph="{...}" />
-                  <marker date="1515201392765" expanded="true" signature="1923:1999" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-01-08-Golang-Notes-Channel.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_drafts/2018-01-08-Golang-Notes-Channel.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="162">
-                <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <first_editor relative-caret-position="432">
+                <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -185,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/MySQL/2017-12-30-MySQL-Upgrade-56-To-57.md" />
         <option value="$PROJECT_DIR$/_drafts/2018-xx-xx-Template.md" />
         <option value="$PROJECT_DIR$/_drafts/2018-01-01-CentOS7-Install-MySQL7.md" />
         <option value="$PROJECT_DIR$/index.html" />
@@ -236,6 +200,7 @@
         <option value="$PROJECT_DIR$/_includes/lefttree.html" />
         <option value="$PROJECT_DIR$/_drafts/2018-01-08-Bootstrap-Table-Thead-Freeze-Tbody-Scroll.md" />
         <option value="$PROJECT_DIR$/_drafts/2018-01-06-Golang-Notes-Channel.md" />
+        <option value="$PROJECT_DIR$/_posts/Go/2018-01-08-Golang-Notes-Package.md" />
       </list>
     </option>
   </component>
@@ -270,7 +235,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -386,6 +350,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Go" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="_includes" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -406,25 +388,26 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\www\blog\_posts\JavaScript" />
-      <recent name="F:\www\blog\_posts\Go" />
-      <recent name="F:\www\blog\_posts\MySQL" />
-      <recent name="F:\www\blog\_drafts" />
-      <recent name="F:\www\blog\_posts\Linux" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\www\blog\_drafts" />
       <recent name="F:\www\blog\_posts\Go" />
       <recent name="F:\www\blog\_posts\MySQL" />
       <recent name="F:\www\blog\_posts\Docker" />
       <recent name="F:\www\blog\_posts\Hadoop" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\www\blog\_posts\Go" />
+      <recent name="F:\www\blog\_posts\JavaScript" />
+      <recent name="F:\www\blog\_posts\MySQL" />
+      <recent name="F:\www\blog\_drafts" />
+      <recent name="F:\www\blog\_posts\Linux" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -543,17 +526,19 @@
       <workItem from="1514966764436" duration="635000" />
       <workItem from="1515030814898" duration="625000" />
       <workItem from="1515115774786" duration="613000" />
-      <workItem from="1515201203583" duration="190000" />
+      <workItem from="1515201203583" duration="324000" />
+      <workItem from="1515372535310" duration="69000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42009000" />
+    <option name="totallyTimeSpent" value="42212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -833,16 +818,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_drafts/2018-01-07-Golang-Notes-Package.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="774">
-            <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_drafts/2018-01-09-Golang-Http-GET-POST.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1067,33 +1042,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-05-Golang-Work-With-MySQL.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_drafts/2018-01-08-Golang-Notes-Channel.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/JavaScript/2018-01-06-Bootstrap-Table-Thead-Freeze-Tbody-Scroll.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="126">
-            <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
             <folding>
               <marker date="1515201392765" expanded="true" signature="335:1480" ph="..." />
               <marker date="1515201392765" expanded="true" signature="367:1473" ph="..." />
@@ -1116,6 +1069,39 @@
               <marker date="1515201392765" expanded="true" signature="1878:2009" ph="{...}" />
               <marker date="1515201392765" expanded="true" signature="1923:1999" ph="{...}" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-05-Golang-Work-With-MySQL.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/2018-01-08-Golang-Notes-Channel.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-08-Golang-Notes-Package.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="432">
+            <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>

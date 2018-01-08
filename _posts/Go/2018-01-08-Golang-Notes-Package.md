@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Golang学习笔记之自定义package包"
-date: 2018-01-07 09:00:00 +0800 
+date: 2018-01-08 09:00:00 +0800 
 categories: Golang
 tag:
  - Go
