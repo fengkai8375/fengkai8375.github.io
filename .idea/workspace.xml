@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_drafts/2018-01-09-Golang-Http-GET-POST.md" afterPath="$PROJECT_DIR$/_posts/Go/2018-01-10-Golang-Http-GET-POST.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_drafts/2018-01-10-Golang-Goquery-Phrase-Html-Dom.md" afterPath="$PROJECT_DIR$/_posts/Go/2018-01-11-Golang-Goquery-Phrase-Html-Dom.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,12 +54,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-10-Golang-Http-GET-POST.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-01-10-Golang-Http-GET-POST.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-10-Golang-Http-GET-POST.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="738">
                 <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-11-Golang-Goquery-Phrase-Html-Dom.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-11-Golang-Goquery-Phrase-Html-Dom.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="585">
+                <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -176,7 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/Go/2018-01-01-Why-Golang-As-PHP-Second.md" />
         <option value="$PROJECT_DIR$/_drafts/2018-01-03-Golang-Notes-Struct.md" />
         <option value="$PROJECT_DIR$/robots.txt" />
@@ -227,6 +239,7 @@
         <option value="$PROJECT_DIR$/_posts/Go/2018-01-08-Golang-Notes-Package.md" />
         <option value="$PROJECT_DIR$/_posts/Go/2018-01-09-Golang-Notes-Channel.md" />
         <option value="$PROJECT_DIR$/_posts/Go/2018-01-10-Golang-Http-GET-POST.md" />
+        <option value="$PROJECT_DIR$/_posts/Go/2018-01-11-Golang-Goquery-Phrase-Html-Dom.md" />
       </list>
     </option>
   </component>
@@ -413,27 +426,27 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\www\blog\_drafts" />
-      <recent name="F:\www\blog\_posts\Go" />
-      <recent name="F:\www\blog\_posts\MySQL" />
-      <recent name="F:\www\blog\_posts\Docker" />
-      <recent name="F:\www\blog\_posts\Hadoop" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\www\blog\_posts\Go" />
       <recent name="F:\www\blog\_posts\JavaScript" />
       <recent name="F:\www\blog\_posts\MySQL" />
       <recent name="F:\www\blog\_drafts" />
       <recent name="F:\www\blog\_posts\Linux" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\www\blog\_drafts" />
+      <recent name="F:\www\blog\_posts\Go" />
+      <recent name="F:\www\blog\_posts\MySQL" />
+      <recent name="F:\www\blog\_posts\Docker" />
+      <recent name="F:\www\blog\_posts\Hadoop" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -555,15 +568,16 @@
       <workItem from="1515201203583" duration="324000" />
       <workItem from="1515372535310" duration="669000" />
       <workItem from="1515459259698" duration="792000" />
-      <workItem from="1515545323766" duration="132000" />
+      <workItem from="1515545323766" duration="728000" />
+      <workItem from="1515632451516" duration="1080000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43736000" />
+    <option name="totallyTimeSpent" value="45412000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1000,16 +1014,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_drafts/2018-01-10-Golang-Goquery-Phrase-Html-Dom.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="864">
-            <caret line="48" column="28" lean-forward="true" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-07-Ngix-compatiable-between-pc-mobile.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1108,6 +1112,17 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="738">
             <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-11-Golang-Goquery-Phrase-Html-Dom.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="585">
+            <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
