@@ -39,7 +39,7 @@ vi /etc/ilogtail/user_defined_id
 
 ```shell
 /etc/init.d/logtaild stop
-/etc/init.d/logtaild stop
+/etc/init.d/logtaild start
 ```
 
 ### 过滤静态资源
@@ -47,6 +47,6 @@ vi /etc/ilogtail/user_defined_id
 logtail配置中添加过滤器
 ```
 key: request_uri
-Regx: .*(?!\.(js|css|png|jpg|jpeg|ico|mp3|ogg))
+Regx: ^(?!.*?(js|css|png|jpg|jpeg|ico|woff)).*
 ```
 
