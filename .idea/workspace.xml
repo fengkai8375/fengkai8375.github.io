@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/WebServer/2018-01-25-Aliyun-Logs-Logtail-Pub-Servers.md" afterPath="$PROJECT_DIR$/_posts/WebServer/2018-01-25-Aliyun-Logs-Logtail-Pub-Servers.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,12 +79,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-25-Aliyun-Logs-Logtail-Pub-Servers.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-01-25-Aliyun-Logs-Logtail-Pub-Servers.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/WebServer/2018-01-25-Aliyun-Logs-Logtail-Pub-Servers.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="774">
                 <caret line="49" column="46" lean-forward="false" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-26-PHP-72-Compile-Pthreads.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/PHP/2018-01-26-PHP-72-Compile-Pthreads.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="144">
+                <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -163,8 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_drafts/2018-01-03-Golang-Notes-Struct.md" />
-        <option value="$PROJECT_DIR$/robots.txt" />
         <option value="$PROJECT_DIR$/_posts/Docker/2017-01-06-Docker-Common-Operation.md" />
         <option value="$PROJECT_DIR$/_posts/Go/2018-01-02-Golang-Notes-Fundmental.md" />
         <option value="$PROJECT_DIR$/_posts/Go/2018-01-03-Golang-Notes-Struct.md" />
@@ -214,6 +224,8 @@
         <option value="$PROJECT_DIR$/_posts/Go/2018-01-10-Golang-Http-GET-POST.md" />
         <option value="$PROJECT_DIR$/_posts/Go/2018-01-11-Golang-Goquery-Phrase-Html-Dom.md" />
         <option value="$PROJECT_DIR$/_posts/WebServer/2018-01-25-Aliyun-Logs-Logtail-Pub-Servers.md" />
+        <option value="$PROJECT_DIR$/_posts/PHP/2018-xx-xx-Template.md" />
+        <option value="$PROJECT_DIR$/_posts/PHP/2018-01-26-PHP-72-Compile-Pthreads.md" />
       </list>
     </option>
   </component>
@@ -349,6 +361,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="PHP" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Linux" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -445,11 +475,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\www\blog\_posts\PHP" />
       <recent name="F:\www\blog\_posts\WebServer" />
       <recent name="F:\www\blog\_drafts" />
       <recent name="F:\www\blog\_posts\Go" />
       <recent name="F:\www\blog\_posts\MySQL" />
-      <recent name="F:\www\blog\_posts\Docker" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\www\blog\_posts\Go" />
@@ -580,12 +610,12 @@
       <workItem from="1515459259698" duration="792000" />
       <workItem from="1515545323766" duration="728000" />
       <workItem from="1515632451516" duration="1082000" />
-      <workItem from="1516867826839" duration="445000" />
+      <workItem from="1516867826839" duration="1733000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45859000" />
+    <option name="totallyTimeSpent" value="47147000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -621,16 +651,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-02-Golang-Notes-Fundmental.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="639">
-            <caret line="133" column="5" lean-forward="false" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/Go/2018-01-03-Golang-Notes-Struct.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1135,6 +1155,17 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="774">
             <caret line="49" column="46" lean-forward="false" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/PHP/2018-01-26-PHP-72-Compile-Pthreads.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="144">
+            <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
