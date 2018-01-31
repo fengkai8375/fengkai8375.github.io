@@ -13,7 +13,21 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="2018-01-31-A-Way-To-Explore-Exchange-Struct.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/PHP/2018-01-31-A-Way-To-Explore-Exchange-Struct.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="733">
+                <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -55,8 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/Go/2018-01-03-Golang-Notes-Struct.md" />
-        <option value="$PROJECT_DIR$/_posts/Hadoop/2017-12-26-Hadoop-Login-Without-Passwd.md" />
         <option value="$PROJECT_DIR$/_posts/Hadoop/2017-12-28-Hadoop-Common-Config-Files.md" />
         <option value="$PROJECT_DIR$/_posts/JavaScript/2017-01-10-Plupload-Not-Work-In-IE9.md" />
         <option value="$PROJECT_DIR$/_posts/JavaScript/2017-07-26-JS-Prevent-Html-Auto-Complete.md" />
@@ -106,6 +118,8 @@
         <option value="$PROJECT_DIR$/_posts/PHP/2018-01-26-PHP-72-Compile-Pthreads.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2018-01-27-CentOS-Mininal-Installtaion-Ifconfig.md" />
         <option value="$PROJECT_DIR$/_posts/Redis/2018-01-29-Redis-Master-Slave-Setup.md" />
+        <option value="$PROJECT_DIR$/_posts/PHP/2018-01-31-A-Way-To-Explore-Struct.md" />
+        <option value="$PROJECT_DIR$/_posts/PHP/2018-01-31-A-Way-To-Explore-Exchange-Struct.md" />
       </list>
     </option>
   </component>
@@ -390,19 +404,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\www\blog\_posts\Redis" />
-      <recent name="F:\www\blog\_posts\Linux" />
-      <recent name="F:\www\blog\_posts\PHP" />
-      <recent name="F:\www\blog\_posts\WebServer" />
-      <recent name="F:\www\blog\_drafts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\www\blog\_posts\Go" />
       <recent name="F:\www\blog\_posts\JavaScript" />
       <recent name="F:\www\blog\_posts\MySQL" />
       <recent name="F:\www\blog\_drafts" />
       <recent name="F:\www\blog\_posts\Linux" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\www\blog\_posts\PHP" />
+      <recent name="F:\www\blog\_posts\Redis" />
+      <recent name="F:\www\blog\_posts\Linux" />
+      <recent name="F:\www\blog\_posts\WebServer" />
+      <recent name="F:\www\blog\_drafts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -530,16 +544,18 @@
       <workItem from="1516954155064" duration="710000" />
       <workItem from="1517039689762" duration="24000" />
       <workItem from="1517209053935" duration="117000" />
+      <workItem from="1517363298300" duration="201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48338000" />
+    <option name="totallyTimeSpent" value="48539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -569,16 +585,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/Hadoop/2017-12-28-Hadoop-Common-Config-Files.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="111" column="6" lean-forward="false" selection-start-line="111" selection-start-column="6" selection-end-line="111" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/JavaScript/2017-01-08-Wechat-Backward-Enfore-Reload.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1072,6 +1078,17 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="378">
             <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/PHP/2018-01-31-A-Way-To-Explore-Exchange-Struct.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="733">
+            <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
             <folding />
           </first_editor>
           <second_editor />
