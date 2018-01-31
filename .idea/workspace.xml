@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/PHP/2018-01-31-A-Way-To-Explore-Exchange-Struct.md" afterPath="$PROJECT_DIR$/_posts/PHP/2018-01-31-A-Way-To-Explore-Exchange-Struct.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/PHP/2018-01-31-A-Way-To-Explore-Exchange-Struct.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="733">
-                <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+              <first_editor relative-caret-position="193">
+                <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="7" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -544,12 +544,12 @@
       <workItem from="1516954155064" duration="710000" />
       <workItem from="1517039689762" duration="24000" />
       <workItem from="1517209053935" duration="117000" />
-      <workItem from="1517363298300" duration="201000" />
+      <workItem from="1517363298300" duration="303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48539000" />
+    <option name="totallyTimeSpent" value="48641000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -1087,8 +1087,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/PHP/2018-01-31-A-Way-To-Explore-Exchange-Struct.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="733">
-            <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+          <first_editor relative-caret-position="193">
+            <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="7" />
             <folding />
           </first_editor>
           <second_editor />
