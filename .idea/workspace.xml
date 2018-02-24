@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/MySQL/2018-02-24-MySQL-Transaction-Isolation.md" afterPath="$PROJECT_DIR$/_posts/MySQL/2018-02-24-MySQL-Transaction-Isolation.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +32,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/MySQL/2018-02-24-MySQL-Transaction-Isolation.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="558">
-                <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+              <first_editor relative-caret-position="414">
+                <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -576,12 +577,12 @@
       <workItem from="1517039689762" duration="24000" />
       <workItem from="1517209053935" duration="117000" />
       <workItem from="1517363298300" duration="903000" />
-      <workItem from="1519459276662" duration="87000" />
+      <workItem from="1519459276662" duration="273000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49328000" />
+    <option name="totallyTimeSpent" value="49514000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -792,16 +793,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="468">
             <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/MySQL/2017-12-30-MySQL-Upgrade-56-To-57.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="342">
-            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           </first_editor>
           <second_editor />
         </state>
@@ -1115,11 +1106,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/MySQL/2017-12-30-MySQL-Upgrade-56-To-57.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/MySQL/2018-02-24-MySQL-Transaction-Isolation.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="558">
-            <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <first_editor relative-caret-position="414">
+            <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
