@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/Linux/2018-06-20-Linux-Process.md" afterPath="$PROJECT_DIR$/_posts/Linux/2018-06-20-Linux-Process.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,13 +12,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="2018-06-22-High-Concurrent-Process.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_drafts/2018-06-22-High-Concurrent-Process.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="432">
-                <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+              <first_editor relative-caret-position="0">
+                <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -27,12 +26,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-06-20-Linux-Process.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-06-20-Linux-Process.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/Linux/2018-06-20-Linux-Process.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="558">
-                <caret line="31" column="2" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+              <first_editor relative-caret-position="198">
+                <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-06-23-Exchange-Data-Realtime-Refresh-Solution.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_drafts/2018-06-23-Exchange-Data-Realtime-Refresh-Solution.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="324">
+                <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -82,7 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/Linux/2017-02-03-Linux-Enable-Iptables-Disable-Firewalld.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2017-02-04-Linux-User-Group.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2017-09-16-CentOs68-L2TP-VPN.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2017-11-10-Memcached-Not-Allow-Outside-Access.md" />
@@ -133,6 +144,7 @@
         <option value="$PROJECT_DIR$/_posts/WebServer/2018-06-22-High-Concurrent-Process.md" />
         <option value="$PROJECT_DIR$/_drafts/2018-06-23-Exchange-Data-Realtime-Refresh-Solution.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2018-06-20-Linux-Process.md" />
+        <option value="$PROJECT_DIR$/_posts/BlockChain/2018-06-18-Bitcoin-Wallet-Advanced-Operations.md" />
       </list>
     </option>
   </component>
@@ -167,7 +179,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -190,31 +201,32 @@
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="_posts" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Linux" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="BlockChain" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\www\blog\_posts\BlockChain" />
+      <recent name="F:\www\blog\_drafts" />
+      <recent name="F:\www\blog\_posts\WebServer" />
+      <recent name="F:\www\blog\_posts\MySQL" />
+      <recent name="F:\www\blog\_posts\PHP" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\www\blog\_posts\Linux" />
       <recent name="F:\www\blog\_drafts" />
       <recent name="F:\www\blog\_posts\Go" />
       <recent name="F:\www\blog\_posts\JavaScript" />
       <recent name="F:\www\blog\_posts\MySQL" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\www\blog\_drafts" />
-      <recent name="F:\www\blog\_posts\WebServer" />
-      <recent name="F:\www\blog\_posts\MySQL" />
-      <recent name="F:\www\blog\_posts\PHP" />
-      <recent name="F:\www\blog\_posts\Redis" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -345,12 +357,13 @@
       <workItem from="1519459276662" duration="1030000" />
       <workItem from="1529544114821" duration="523000" />
       <workItem from="1529544981106" duration="493000" />
-      <workItem from="1529549394566" duration="274000" />
+      <workItem from="1529549394566" duration="531000" />
+      <workItem from="1529561025812" duration="234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51561000" />
+    <option name="totallyTimeSpent" value="52052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -387,16 +400,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-02-02-Linux-Firewalld-Opeartion.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="378">
-            <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-02-03-Linux-Enable-Iptables-Disable-Firewalld.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -859,17 +862,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_drafts/2018-06-23-Exchange-Data-Realtime-Refresh-Solution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="252">
-            <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/PHP/2018-01-31-A-Way-To-Explore-Exchange-Struct.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -884,8 +876,8 @@
     <entry file="file://$PROJECT_DIR$/_drafts/2018-06-22-High-Concurrent-Process.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="432">
-            <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <first_editor relative-caret-position="0">
+            <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
             <folding />
           </first_editor>
           <second_editor />
@@ -895,8 +887,30 @@
     <entry file="file://$PROJECT_DIR$/_posts/Linux/2018-06-20-Linux-Process.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="558">
-            <caret line="31" column="2" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+          <first_editor relative-caret-position="198">
+            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/BlockChain/2018-06-18-Bitcoin-Wallet-Advanced-Operations.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/2018-06-23-Exchange-Data-Realtime-Refresh-Solution.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="324">
+            <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
