@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_drafts/2018-06-22-High-Concurrent-Process.md" afterPath="$PROJECT_DIR$/_posts/WebServer/2018-06-22-High-Concurrent-Process.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/WebServer/2018-06-22-High-Concurrent-Process.md" afterPath="$PROJECT_DIR$/_posts/WebServer/2018-06-22-High-Concurrent-Process.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +18,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="450">
-                <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+                <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -128,10 +128,10 @@
         <option value="$PROJECT_DIR$/_posts/PHP/2018-01-31-A-Way-To-Explore-Exchange-Struct.md" />
         <option value="$PROJECT_DIR$/_posts/MySQL/2018-02-24-MySQL-Transaction-Isolation.md" />
         <option value="$PROJECT_DIR$/_posts/WebServer/2018-06-21-Server-fast-slow-factors.md" />
-        <option value="$PROJECT_DIR$/_posts/WebServer/2018-06-22-High-Concurrent-Process.md" />
         <option value="$PROJECT_DIR$/_drafts/2018-06-23-Exchange-Data-Realtime-Refresh-Solution.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2018-06-20-Linux-Process.md" />
         <option value="$PROJECT_DIR$/_posts/BlockChain/2018-06-18-Bitcoin-Wallet-Advanced-Operations.md" />
+        <option value="$PROJECT_DIR$/_posts/WebServer/2018-06-22-High-Concurrent-Process.md" />
       </list>
     </option>
   </component>
@@ -166,8 +166,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -353,11 +353,12 @@
       <workItem from="1529549394566" duration="531000" />
       <workItem from="1529561025812" duration="234000" />
       <workItem from="1529630993533" duration="16000" />
+      <workItem from="1529632270005" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52068000" />
+    <option name="totallyTimeSpent" value="52084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -886,8 +887,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/WebServer/2018-06-22-High-Concurrent-Process.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="558">
-            <caret line="31" column="41" lean-forward="false" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <first_editor relative-caret-position="306">
+            <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -898,7 +899,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="450">
-            <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+            <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
