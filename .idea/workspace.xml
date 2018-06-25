@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_drafts/2018-06-23-Exchange-Data-Realtime-Refresh-Solution.md" afterPath="$PROJECT_DIR$/_posts/WebServer/2018-06-23-Exchange-Data-Realtime-Refresh-Solution.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/Linux/2018-06-20-Linux-Process.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+              <first_editor relative-caret-position="594">
+                <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -69,7 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/Linux/2017-09-16-CentOs68-L2TP-VPN.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2017-11-10-Memcached-Not-Allow-Outside-Access.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2017-11-20-Rsync-Inotify-Sync-Servers.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2017-11-21-Linux-Partion-New-Hard-Drive-Format.md" />
@@ -120,6 +118,7 @@
         <option value="$PROJECT_DIR$/_posts/BlockChain/2018-06-18-Bitcoin-Wallet-Advanced-Operations.md" />
         <option value="$PROJECT_DIR$/_posts/WebServer/2018-06-22-High-Concurrent-Process.md" />
         <option value="$PROJECT_DIR$/_posts/Redis/2018-06-22-Redis-Data-Struct.md" />
+        <option value="$PROJECT_DIR$/_posts/Docker/2018-06-25-Why-Use-Kubernetes.md" />
       </list>
     </option>
   </component>
@@ -130,7 +129,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -154,6 +153,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,6 +176,12 @@
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="_posts" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Docker" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_posts" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Redis" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -187,27 +194,25 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\www\blog\_posts\Docker" />
+      <recent name="F:\www\blog\_posts\Redis" />
+      <recent name="F:\www\blog\_posts\BlockChain" />
+      <recent name="F:\www\blog\_drafts" />
+      <recent name="F:\www\blog\_posts\WebServer" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\www\blog\_posts\WebServer" />
       <recent name="F:\www\blog\_posts\Linux" />
       <recent name="F:\www\blog\_drafts" />
       <recent name="F:\www\blog\_posts\Go" />
       <recent name="F:\www\blog\_posts\JavaScript" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\www\blog\_posts\Redis" />
-      <recent name="F:\www\blog\_posts\BlockChain" />
-      <recent name="F:\www\blog\_drafts" />
-      <recent name="F:\www\blog\_posts\WebServer" />
-      <recent name="F:\www\blog\_posts\MySQL" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -343,15 +348,16 @@
       <workItem from="1529630993533" duration="16000" />
       <workItem from="1529632270005" duration="16000" />
       <workItem from="1529646809259" duration="114000" />
-      <workItem from="1529714945548" duration="26000" />
+      <workItem from="1529714945548" duration="632000" />
+      <workItem from="1529920676579" duration="80000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52224000" />
+    <option name="totallyTimeSpent" value="52910000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -385,16 +391,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-02-04-Linux-User-Group.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="630">
-            <caret line="35" column="8" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-09-16-CentOs68-L2TP-VPN.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -877,6 +873,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="144">
             <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/Docker/2018-06-25-Why-Use-Kubernetes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="396">
+            <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -886,8 +892,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/Linux/2018-06-20-Linux-Process.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <first_editor relative-caret-position="594">
+            <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
