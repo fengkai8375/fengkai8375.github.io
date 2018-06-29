@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/Linux/2018-06-29-CentOS-Network-NetworkManger.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/Linux/2018-06-29-CentOS-Network-NetworkManger.md" afterDir="false" />
-    </list>
+    <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,12 +11,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-06-20-Linux-Process.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-06-20-Linux-Process.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/Linux/2018-06-20-Linux-Process.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="67">
+              <first_editor relative-caret-position="68">
                 <caret line="11" selection-start-line="11" selection-end-line="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-06-28-Bitcoin-Fakecoin-Rebuild-Main-Node.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/BlockChain/2018-06-28-Bitcoin-Fakecoin-Rebuild-Main-Node.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="54">
+                <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-06-18-Bitcoin-Wallet-Advanced-Operations.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/BlockChain/2018-06-18-Bitcoin-Wallet-Advanced-Operations.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="72">
+                <caret line="4" column="22" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -67,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/Linux/2017-11-20-Rsync-Inotify-Sync-Servers.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2017-11-21-Linux-Partion-New-Hard-Drive-Format.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2017-12-24-Install-Jekyll-On-CentOS7.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2017-12-31-CentOS7-Install-MySQL57.md" />
@@ -118,6 +139,7 @@
         <option value="$PROJECT_DIR$/_posts/Redis/2018-06-22-Redis-Data-Struct.md" />
         <option value="$PROJECT_DIR$/_posts/Docker/2018-06-25-Why-Use-Kubernetes.md" />
         <option value="$PROJECT_DIR$/_posts/Linux/2018-06-29-CentOS-Network-NetworkManger.md" />
+        <option value="$PROJECT_DIR$/_posts/BlockChain/2018-06-28-Bitcoin-Fakecoin-Rebuild-Main-Node.md" />
       </list>
     </option>
   </component>
@@ -130,7 +152,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -165,7 +187,7 @@
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="Linux" type="462c0819:PsiDirectoryNode" />
+              <item name="BlockChain" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,19 +200,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\www\blog\_posts\BlockChain" />
+      <recent name="F:\www\blog\_posts\Linux" />
+      <recent name="F:\www\blog\_posts\Docker" />
+      <recent name="F:\www\blog\_posts\Redis" />
+      <recent name="F:\www\blog\_drafts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\www\blog\_posts\WebServer" />
       <recent name="F:\www\blog\_posts\Linux" />
       <recent name="F:\www\blog\_drafts" />
       <recent name="F:\www\blog\_posts\Go" />
       <recent name="F:\www\blog\_posts\JavaScript" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\www\blog\_posts\Linux" />
-      <recent name="F:\www\blog\_posts\Docker" />
-      <recent name="F:\www\blog\_posts\Redis" />
-      <recent name="F:\www\blog\_posts\BlockChain" />
-      <recent name="F:\www\blog\_drafts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -269,11 +291,12 @@
       <workItem from="1529920676579" duration="80000" />
       <workItem from="1530255019677" duration="142000" />
       <workItem from="1530255324897" duration="23000" />
+      <workItem from="1530257253690" duration="122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53075000" />
+    <option name="totallyTimeSpent" value="53197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -307,16 +330,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-11-10-Memcached-Not-Allow-Outside-Access.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/Linux/2017-11-20-Rsync-Inotify-Sync-Servers.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -740,16 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/BlockChain/2018-06-18-Bitcoin-Wallet-Advanced-Operations.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/WebServer/2018-06-22-High-Concurrent-Process.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -803,8 +806,28 @@
     <entry file="file://$PROJECT_DIR$/_posts/Linux/2018-06-20-Linux-Process.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="67">
+          <first_editor relative-caret-position="68">
             <caret line="11" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/BlockChain/2018-06-18-Bitcoin-Wallet-Advanced-Operations.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="72">
+            <caret line="4" column="22" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/BlockChain/2018-06-28-Bitcoin-Fakecoin-Rebuild-Main-Node.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
