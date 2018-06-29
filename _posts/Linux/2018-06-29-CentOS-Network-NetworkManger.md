@@ -11,7 +11,7 @@ tag:
 
 ### 环境
 
-运行于Vmware WorkStation 12下的CentOS 7.4 
+运行于VMware WorkStation 12下的CentOS 7.4 
 
 ### 问题背景
 
@@ -32,10 +32,10 @@ tag:
     ifconfig ens33 down 
     ifconfig ens33 up
     systemctl restart network
-    systemctl restart NetworkManger
+    systemctl restart NetworkManager
     ```
     还是不管用。
     
-又查阅了一些资料，说是 `NetworkManger`和`network`服务有冲突，不能同时运行。停止并禁用`NetworkManger`，但重新执行`systemctl restart network`后正常了。
+又查阅了一些资料，说是 `NetworkManager`和`network`服务有冲突，不能同时运行。停止并禁用`NetworkManger`，但重新执行`systemctl restart network`后正常了。
 
-> `NetworkManger`和`network`服务不能同时存在，只能保留一个。
+> 经验：`NetworkManager`和`network`服务不能同时存在，只能保留一个。
