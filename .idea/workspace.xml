@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="" />
+    <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/BlockChain/2018-06-28-Bitcoin-Fakecoin-Rebuild-Main-Node.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/BlockChain/2018-06-28-Bitcoin-Fakecoin-Rebuild-Main-Node.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,36 +13,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-06-20-Linux-Process.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2018-06-20-Linux-Process.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/Linux/2018-06-20-Linux-Process.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="68">
                 <caret line="11" selection-start-line="11" selection-end-line="11" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-06-28-Bitcoin-Fakecoin-Rebuild-Main-Node.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/BlockChain/2018-06-28-Bitcoin-Fakecoin-Rebuild-Main-Node.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="54">
-                <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-06-18-Bitcoin-Wallet-Advanced-Operations.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/BlockChain/2018-06-18-Bitcoin-Wallet-Advanced-Operations.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="72">
-                <caret line="4" column="22" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -152,7 +130,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -291,12 +269,12 @@
       <workItem from="1529920676579" duration="80000" />
       <workItem from="1530255019677" duration="142000" />
       <workItem from="1530255324897" duration="23000" />
-      <workItem from="1530257253690" duration="122000" />
+      <workItem from="1530257253690" duration="275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53197000" />
+    <option name="totallyTimeSpent" value="53350000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -803,21 +781,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/Linux/2018-06-20-Linux-Process.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="11" selection-start-line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/BlockChain/2018-06-18-Bitcoin-Wallet-Advanced-Operations.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="4" column="22" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="22" />
+          <first_editor relative-caret-position="252">
+            <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
           </first_editor>
           <second_editor />
         </state>
@@ -826,8 +794,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/BlockChain/2018-06-28-Bitcoin-Fakecoin-Rebuild-Main-Node.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="54">
-            <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <first_editor relative-caret-position="414">
+            <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/Linux/2018-06-20-Linux-Process.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
           </first_editor>
           <second_editor />
         </state>
