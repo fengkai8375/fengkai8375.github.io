@@ -36,3 +36,9 @@ passwd ftpuser
 ```shell
 usermod -g groupname username
 ```
+
+#### 查看所有用户
+```
+cat /etc/shadow
+cat /etc/passwd
+```
