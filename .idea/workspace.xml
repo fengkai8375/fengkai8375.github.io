@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/BlockChain/2018-11-16-VirtualBox-Linux-Share-Folder-Privileges.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/Linux/2018-11-16-VirtualBox-Linux-Share-Folder-Privileges.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,30 +46,30 @@
     <session id="1612500061">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="2" />
+          <entry key="md" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="2" />
+          <entry key="Markdown" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="59" />
+          <entry key="md" value="89" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="59" />
+          <entry key="Markdown" value="89" />
         </counts>
       </usages-collector>
     </session>
@@ -129,7 +128,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/Linux/2018-11-16-VirtualBox-Linux-Share-Folder-Privileges.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="375">
+              <first_editor relative-caret-position="540">
                 <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               </first_editor>
               <second_editor />
@@ -137,12 +136,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/Docker/2018-11-17-Deploy-Redis-In-Docker.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="500">
-                <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+              <first_editor relative-caret-position="300">
+                <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/Linux/2018-11-19-CentOS7-Netatalk-NAS-Time-Machine.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -191,7 +202,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_drafts/2018-01-07-Golang-Notes-Package.md" />
         <option value="$PROJECT_DIR$/_drafts/2018-01-09-Golang-Http-GET-POST.md" />
         <option value="$PROJECT_DIR$/_drafts/2018-01-10-Golang-Goquery-Phrase-Html-Dom.md" />
         <option value="$PROJECT_DIR$/_posts/PHP/2017-10-18-PHP-Session-Cross-Domain.md" />
@@ -242,6 +252,7 @@
         <option value="$PROJECT_DIR$/_posts/BlockChain/2018-11-12-Bitcoin-Wallet-Interactive-In-CLI.md" />
         <option value="$PROJECT_DIR$/_posts/BlockChain/2018-11-16-VirtualBox-Linux-Share-Folder-Privileges.md" />
         <option value="$PROJECT_DIR$/_posts/Docker/2018-11-17-Deploy-Redis-In-Docker.md" />
+        <option value="$PROJECT_DIR$/_posts/Linux/2018-11-19-CentOS7-Netatalk-NAS-Time-Machine.md" />
       </list>
     </option>
   </component>
@@ -264,6 +275,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -309,26 +321,25 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts/WebServer" />
-      <recent name="F:\www\blog\_posts\BlockChain" />
-      <recent name="F:\www\blog\_posts\WebServer" />
-      <recent name="F:\www\blog\_posts\Linux" />
-      <recent name="F:\www\blog\_posts\Docker" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts/Docker" />
       <recent name="$PROJECT_DIR$/_posts/Linux" />
       <recent name="$PROJECT_DIR$/_posts/BlockChain" />
       <recent name="F:\www\blog\_posts\BlockChain" />
       <recent name="F:\www\blog\_drafts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/Linux" />
+      <recent name="$PROJECT_DIR$/_posts/WebServer" />
+      <recent name="F:\www\blog\_posts\BlockChain" />
+      <recent name="F:\www\blog\_posts\WebServer" />
+      <recent name="F:\www\blog\_posts\Linux" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -416,18 +427,19 @@
       <workItem from="1541813067624" duration="100000" />
       <workItem from="1541914501351" duration="28000" />
       <workItem from="1542343308991" duration="370000" />
-      <workItem from="1542428178200" duration="159000" />
+      <workItem from="1542428178200" duration="558000" />
+      <workItem from="1542612807137" duration="130000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56371000" />
+    <option name="totallyTimeSpent" value="56900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26890308" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2715655" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -455,16 +467,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/MySQL/2017-12-29-MySQL-Create-User-Grant-Privileges.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="468">
-            <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/PHP/2016-02-04-PHP-Debug-Methods.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -938,7 +940,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/Linux/2018-11-16-VirtualBox-Linux-Share-Folder-Privileges.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="375">
+          <first_editor relative-caret-position="540">
             <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           </first_editor>
           <second_editor />
@@ -948,8 +950,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/Docker/2018-11-17-Deploy-Redis-In-Docker.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="500">
-            <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <first_editor relative-caret-position="300">
+            <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/Linux/2018-11-19-CentOS7-Netatalk-NAS-Time-Machine.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
