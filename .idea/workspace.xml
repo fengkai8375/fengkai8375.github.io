@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1074becb-d68c-4bd9-a6ba-bba88746b71d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/WebServer/2018-12-31-Reliable-Internet-Cloud-Products-Services.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/WebServer/2018-12-31-Reliable-Internet-Cloud-Products-Services.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,35 +46,35 @@
     <session id="1612500061">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="9" />
-          <entry key="md" value="11" />
+          <entry key="md" value="13" />
           <entry key="pages_list" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="9" />
-          <entry key="Markdown" value="11" />
+          <entry key="Markdown" value="13" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="308" />
+          <entry key="md" value="478" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="308" />
+          <entry key="Markdown" value="478" />
         </counts>
       </usages-collector>
     </session>
@@ -117,12 +117,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/WebServer/2018-12-31-Reliable-Internet-Cloud-Products-Services.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="60">
                 <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_drafts/2019-xx-xx-Template.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="80">
+                <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/PHP/2019-xx-xx-Template.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="420">
+                <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -183,8 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/Shell/2017-12-11-Linux-Shell-String.md" />
-        <option value="$PROJECT_DIR$/_posts/Shell/2017-12-12-Linux-Shell-Files-And-Folder.md" />
         <option value="$PROJECT_DIR$/_posts/Shell/2017-12-13-Linux-Shell-Date-And-Time.md" />
         <option value="$PROJECT_DIR$/_posts/WebServer/2017-02-06-Ngix-nowww-jump-to-www.md" />
         <option value="$PROJECT_DIR$/_posts/WebServer/2017-02-07-Ngix-compatiable-between-pc-mobile.md" />
@@ -234,6 +256,8 @@
         <option value="$PROJECT_DIR$/_posts/WebServer/2018-12-26-Solutions-When-Under-Attack.md" />
         <option value="$PROJECT_DIR$/_posts/PHP/2018-12-30-PHP-Request-Slow-Check-Experience.md" />
         <option value="$PROJECT_DIR$/_posts/WebServer/2018-12-31-Reliable-Internet-Cloud-Products-Services.md" />
+        <option value="$PROJECT_DIR$/_drafts/2019-xx-xx-Template.md" />
+        <option value="$PROJECT_DIR$/_posts/PHP/2019-xx-xx-Template.md" />
       </list>
     </option>
   </component>
@@ -272,13 +296,18 @@
             <path>
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="WebServer" type="462c0819:PsiDirectoryNode" />
+              <item name="PHP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -290,16 +319,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/PHP" />
+      <recent name="$PROJECT_DIR$/_drafts" />
+      <recent name="$PROJECT_DIR$/_posts/WebServer" />
+      <recent name="$PROJECT_DIR$/_posts/Linux" />
+      <recent name="$PROJECT_DIR$/_posts/BlockChain" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts/macOS" />
       <recent name="$PROJECT_DIR$/_posts/Docker" />
-      <recent name="$PROJECT_DIR$/_posts/Linux" />
-      <recent name="$PROJECT_DIR$/_posts/BlockChain" />
-      <recent name="F:\www\blog\_posts\BlockChain" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts/WebServer" />
-      <recent name="$PROJECT_DIR$/_posts/PHP" />
       <recent name="$PROJECT_DIR$/_posts/Linux" />
       <recent name="$PROJECT_DIR$/_posts/BlockChain" />
       <recent name="F:\www\blog\_posts\BlockChain" />
@@ -397,18 +426,19 @@
       <workItem from="1543474721357" duration="796000" />
       <workItem from="1545960113810" duration="725000" />
       <workItem from="1546133600808" duration="589000" />
-      <workItem from="1546237264649" duration="188000" />
+      <workItem from="1546237264649" duration="741000" />
+      <workItem from="1546651095630" duration="279000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61525000" />
+    <option name="totallyTimeSpent" value="62357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28753993" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29073483" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -436,23 +466,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/WebServer/2017-02-08-Ngix-config-status.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="720">
-            <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/lefttree.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/JavaScript/2018-01-06-Bootstrap-Table-Thead-Freeze-Tbody-Scroll.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -869,6 +882,13 @@
     <entry file="file://$PROJECT_DIR$/_includes/docs_header.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/banner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/BlockChain/2018-11-11-Bitcoin-Wallet-Interactive-In-CLI.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -879,18 +899,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/banner.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/WebServer/2018-12-31-Reliable-Internet-Cloud-Products-Services.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
             <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/2019-xx-xx-Template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="80">
+            <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/PHP/2019-xx-xx-Template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="420">
+            <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
