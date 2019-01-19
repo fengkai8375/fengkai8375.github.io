@@ -12,7 +12,7 @@ banner: 生命注满了爱，就如酒杯斟满了酒。
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:title.html
 excerpt_separator:  '<!-- more -->' #文章摘要
-encoding: UTF-8
+encoding: utf-8
 paginate: 8
 paginate_path: "page:num"
 gems: [jekyll-paginate]
