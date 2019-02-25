@@ -20,21 +20,21 @@ macOS环境则无需虚拟机。
 
 个人推荐在Docker容器中开发，部署快且不影响主机环境，切换环境也方便。
 
-我的环境：
+## 我的环境：
 
 1. 主机：macOS 10.13.3
 2. 虚拟机:CentOS 7.6
 3. Docker容器：CentOS 7.6
 4. Tensorflow： Golang with C库
 
-配置步骤
+## 配置步骤
 
 1. 配置Docker容器
 2. 配置Golang环境
 3. 配置Tensorflow C库
 4. 配置Tensorflow Golang版
 
-步骤1和2省略。
+步骤1省略，步骤2参见[CentOS7安装Golang](https://www.fengkai.info/CentOS7-Install-Golang.html)。
 
 <!-- more -->
 
